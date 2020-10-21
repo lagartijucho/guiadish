@@ -1,8 +1,58 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Cinemax">
-    <display-name lang="es">Cinemax</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+  <channel id="Nat Geo Kids">
+    <display-name lang="es">Nat Geo Kids</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="es">Baby TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="es">Boomerang</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ingenio TV">
+    <display-name lang="es">Ingenio TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ingenio_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="es">Discovery)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="es">Nat Geo Wild</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_wild-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="es">History Channel</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ESPN">
@@ -35,74 +85,2429 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201021012500 -0500" stop="20201021030100 -0500" channel="Cinemax">
-    <title lang="es">Nunca Digas su Nombre</title>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CNNE">
+    <display-name lang="es">CNNE</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CNNI">
+    <display-name lang="es">CNNI</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201021000300 -0500" stop="20201021000700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob ¡tú también lo puedes hacer</title>
   </programme>
-  <programme start="20201021030100 -0500" stop="20201021042000 -0500" channel="Cinemax">
-    <title lang="es">Inactividad Paranormal 2</title>
+  <programme start="20201021000700 -0500" stop="20201021001300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
   </programme>
-  <programme start="20201021042000 -0500" stop="20201021060700 -0500" channel="Cinemax">
-    <title lang="es">Sing street</title>
+  <programme start="20201021001300 -0500" stop="20201021002500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
   </programme>
-  <programme start="20201021060700 -0500" stop="20201021082700 -0500" channel="Cinemax">
-    <title lang="es">La última pelea</title>
+  <programme start="20201021002500 -0500" stop="20201021003900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
   </programme>
-  <programme start="20201021082700 -0500" stop="20201021100800 -0500" channel="Cinemax">
-    <title lang="es">La maldición de Charlie</title>
+  <programme start="20201021003900 -0500" stop="20201021005300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
   </programme>
-  <programme start="20201021100800 -0500" stop="20201021120800 -0500" channel="Cinemax">
-    <title lang="es">Fuerzas especiales</title>
+  <programme start="20201021005300 -0500" stop="20201021010300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
   </programme>
-  <programme start="20201021120800 -0500" stop="20201021143500 -0500" channel="Cinemax">
-    <title lang="es">La sombra del poder</title>
+  <programme start="20201021010300 -0500" stop="20201021011400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
   </programme>
-  <programme start="20201021143500 -0500" stop="20201021163500 -0500" channel="Cinemax">
-    <title lang="es">Linea de fuego</title>
+  <programme start="20201021011400 -0500" stop="20201021012500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
   </programme>
-  <programme start="20201021163500 -0500" stop="20201021184300 -0500" channel="Cinemax">
-    <title lang="es">Venganza de la casa del lago</title>
+  <programme start="20201021012500 -0500" stop="20201021014800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
   </programme>
-  <programme start="20201021184300 -0500" stop="20201021210000 -0500" channel="Cinemax">
-    <title lang="es">Los Secretos de Stonehearst</title>
+  <programme start="20201021014800 -0500" stop="20201021020000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Beat Bugs</title>
   </programme>
-  <programme start="20201021210000 -0500" stop="20201021224900 -0500" channel="Cinemax">
-    <title lang="es">La maldición de Charlie</title>
+  <programme start="20201021020000 -0500" stop="20201021021300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Beat Bugs</title>
   </programme>
-  <programme start="20201021224900 -0500" stop="20201022013000 -0500" channel="Cinemax">
-    <title lang="es">Hannibal</title>
+  <programme start="20201021021300 -0500" stop="20201021022500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Exploradores Espaciales</title>
   </programme>
-  <programme start="20201022013000 -0500" stop="20201022040200 -0500" channel="Cinemax">
-    <title lang="es">Dragón Rojo</title>
+  <programme start="20201021022500 -0500" stop="20201021024000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Exploradores Espaciales</title>
   </programme>
-  <programme start="20201022040200 -0500" stop="20201022061300 -0500" channel="Cinemax">
-    <title lang="es">El discurso dEl Rey</title>
+  <programme start="20201021024000 -0500" stop="20201021024500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
   </programme>
-  <programme start="20201022061300 -0500" stop="20201022085200 -0500" channel="Cinemax">
-    <title lang="es">Mundo Acuático</title>
+  <programme start="20201021024500 -0500" stop="20201021025700 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
   </programme>
-  <programme start="20201022085200 -0500" stop="20201022104100 -0500" channel="Cinemax">
-    <title lang="es">Ninja II</title>
+  <programme start="20201021025700 -0500" stop="20201021030900 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
   </programme>
-  <programme start="20201022104100 -0500" stop="20201022124600 -0500" channel="Cinemax">
-    <title lang="es">Contagio</title>
+  <programme start="20201021030900 -0500" stop="20201021032000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
   </programme>
-  <programme start="20201022124600 -0500" stop="20201022151800 -0500" channel="Cinemax">
-    <title lang="es">El plan perfecto</title>
+  <programme start="20201021032000 -0500" stop="20201021033300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
   </programme>
-  <programme start="20201022151800 -0500" stop="20201022172300 -0500" channel="Cinemax">
-    <title lang="es">El plan maestro</title>
+  <programme start="20201021033300 -0500" stop="20201021033400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20201022172300 -0500" stop="20201022191500 -0500" channel="Cinemax">
-    <title lang="es">Quemese después de leerse</title>
+  <programme start="20201021033400 -0500" stop="20201021034600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ranger Rob</title>
   </programme>
-  <programme start="20201022191500 -0500" stop="20201022210000 -0500" channel="Cinemax">
-    <title lang="es">Código de defensa</title>
+  <programme start="20201021034600 -0500" stop="20201021035700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ranger Rob</title>
   </programme>
-  <programme start="20201022210000 -0500" stop="20201022230500 -0500" channel="Cinemax">
-    <title lang="es">Contagio</title>
+  <programme start="20201021035700 -0500" stop="20201021040900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
   </programme>
-  <programme start="20201022230500 -0500" stop="20201023013800 -0500" channel="Cinemax">
-    <title lang="es">El plan perfecto</title>
+  <programme start="20201021040900 -0500" stop="20201021042100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021042100 -0500" stop="20201021044500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201021044500 -0500" stop="20201021045200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20201021045200 -0500" stop="20201021050300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20201021050300 -0500" stop="20201021051400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20201021051400 -0500" stop="20201021052400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021052400 -0500" stop="20201021053700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021053700 -0500" stop="20201021053800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201021053800 -0500" stop="20201021054900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20201021054900 -0500" stop="20201021060000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021061100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201021061100 -0500" stop="20201021062400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201021062400 -0500" stop="20201021064600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201021064600 -0500" stop="20201021065200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20201021065200 -0500" stop="20201021070000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021071500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021071500 -0500" stop="20201021073000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021073000 -0500" stop="20201021073700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opaventuras</title>
+  </programme>
+  <programme start="20201021073700 -0500" stop="20201021074900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021074900 -0500" stop="20201021080100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021080100 -0500" stop="20201021082400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201021082400 -0500" stop="20201021083000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201021083000 -0500" stop="20201021084100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201021084100 -0500" stop="20201021085600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021085600 -0500" stop="20201021090700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021090700 -0500" stop="20201021091800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021091800 -0500" stop="20201021092900 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201021092900 -0500" stop="20201021094500 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201021094500 -0500" stop="20201021100000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021101000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201021101000 -0500" stop="20201021102500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201021102500 -0500" stop="20201021103700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021103700 -0500" stop="20201021105200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201021105200 -0500" stop="20201021110300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201021110300 -0500" stop="20201021111700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201021111700 -0500" stop="20201021112800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201021112800 -0500" stop="20201021114300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201021114300 -0500" stop="20201021114900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Javi y el club del árbol</title>
+  </programme>
+  <programme start="20201021114900 -0500" stop="20201021115500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Javi y el club del árbol</title>
+  </programme>
+  <programme start="20201021115500 -0500" stop="20201021120600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201021120600 -0500" stop="20201021121100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201021121100 -0500" stop="20201021122500 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201021122500 -0500" stop="20201021124100 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201021124100 -0500" stop="20201021130300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20201021130300 -0500" stop="20201021132800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201021132800 -0500" stop="20201021134200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021134200 -0500" stop="20201021135300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021135300 -0500" stop="20201021140300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021140300 -0500" stop="20201021141700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021141700 -0500" stop="20201021144300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20201021144300 -0500" stop="20201021145400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201021145400 -0500" stop="20201021150800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201021150800 -0500" stop="20201021151400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los Fixies</title>
+  </programme>
+  <programme start="20201021151400 -0500" stop="20201021152900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201021152900 -0500" stop="20201021154100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201021154100 -0500" stop="20201021155400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201021155400 -0500" stop="20201021160800 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201021160800 -0500" stop="20201021163500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201021163500 -0500" stop="20201021165700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201021165700 -0500" stop="20201021170800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021170800 -0500" stop="20201021173400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20201021173400 -0500" stop="20201021174800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021174800 -0500" stop="20201021174900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Furiki Wheels</title>
+  </programme>
+  <programme start="20201021174900 -0500" stop="20201021180000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021181000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201021181000 -0500" stop="20201021182400 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201021182400 -0500" stop="20201021184000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021184000 -0500" stop="20201021190200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201021190200 -0500" stop="20201021192700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20201021192700 -0500" stop="20201021195200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201021195200 -0500" stop="20201021200300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021200300 -0500" stop="20201021201700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021201700 -0500" stop="20201021204200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201021204200 -0500" stop="20201021205300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021205300 -0500" stop="20201021210400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201021210400 -0500" stop="20201021211500 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201021211500 -0500" stop="20201021213000 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021214700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201021214700 -0500" stop="20201021215900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201021215900 -0500" stop="20201021222400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201021222400 -0500" stop="20201021225000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20201021225000 -0500" stop="20201021231500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201021231500 -0500" stop="20201021232500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021232500 -0500" stop="20201021233900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201021233900 -0500" stop="20201021235000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201021235000 -0500" stop="20201022000100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201022000100 -0500" stop="20201022000500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob ¡tú también lo puedes hacer</title>
+  </programme>
+  <programme start="20201022000500 -0500" stop="20201022001100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201022001100 -0500" stop="20201022002600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022002600 -0500" stop="20201022003800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022003800 -0500" stop="20201022005200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022005200 -0500" stop="20201022010300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022010300 -0500" stop="20201022011400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022011400 -0500" stop="20201022012500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022012500 -0500" stop="20201022014900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201022014900 -0500" stop="20201022015000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022015000 -0500" stop="20201022020300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20201022020300 -0500" stop="20201022021600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20201022021600 -0500" stop="20201022023000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20201022023000 -0500" stop="20201022024200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20201022024200 -0500" stop="20201022024800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201022024800 -0500" stop="20201022025900 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201022025900 -0500" stop="20201022031100 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201022031100 -0500" stop="20201022032200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201022032200 -0500" stop="20201022033500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201022033500 -0500" stop="20201022033600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022033600 -0500" stop="20201022035900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20201022035900 -0500" stop="20201022041000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20201022041000 -0500" stop="20201022042200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022042200 -0500" stop="20201022043600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022043600 -0500" stop="20201022045500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201022045500 -0500" stop="20201022050100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20201022050100 -0500" stop="20201022051200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20201022051200 -0500" stop="20201022052500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20201022052500 -0500" stop="20201022052700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022052700 -0500" stop="20201022053700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022053700 -0500" stop="20201022054800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022054800 -0500" stop="20201022055900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20201022055900 -0500" stop="20201022061000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20201022061000 -0500" stop="20201022062100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022062100 -0500" stop="20201022063400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022063400 -0500" stop="20201022065200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201022065200 -0500" stop="20201022070000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20201022070000 -0500" stop="20201022071400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022071400 -0500" stop="20201022072800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022072800 -0500" stop="20201022073500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opaventuras</title>
+  </programme>
+  <programme start="20201022073500 -0500" stop="20201022074700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022074700 -0500" stop="20201022075900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022075900 -0500" stop="20201022082500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201022082500 -0500" stop="20201022083000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201022083000 -0500" stop="20201022084100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201022084100 -0500" stop="20201022085700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022085700 -0500" stop="20201022090700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022090700 -0500" stop="20201022091800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022091800 -0500" stop="20201022093000 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201022093000 -0500" stop="20201022094500 -0500" channel="Nat Geo Kids">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201022094500 -0500" stop="20201022100000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201022100000 -0500" stop="20201022101000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022101000 -0500" stop="20201022102500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022102500 -0500" stop="20201022103700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022103700 -0500" stop="20201022105300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201022105300 -0500" stop="20201022110300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201022110300 -0500" stop="20201022111800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201022111800 -0500" stop="20201022112900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201022112900 -0500" stop="20201022114400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201022114400 -0500" stop="20201022115000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Javi y el club del árbol</title>
+  </programme>
+  <programme start="20201022115000 -0500" stop="20201022115600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Javi y el club del árbol</title>
+  </programme>
+  <programme start="20201022115600 -0500" stop="20201022120700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201022120700 -0500" stop="20201022121300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20201022121300 -0500" stop="20201022122700 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201022122700 -0500" stop="20201022124300 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201022124300 -0500" stop="20201022130500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20201022130500 -0500" stop="20201022133200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201022133200 -0500" stop="20201022133800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Los Fixies</title>
+  </programme>
+  <programme start="20201022133800 -0500" stop="20201022135300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022135300 -0500" stop="20201022140400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022140400 -0500" stop="20201022141500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201022141500 -0500" stop="20201022142900 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201022142900 -0500" stop="20201022145500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20201022145500 -0500" stop="20201022150600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201022150600 -0500" stop="20201022152000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20201022152000 -0500" stop="20201022153700 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022153700 -0500" stop="20201022155200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201022155200 -0500" stop="20201022160400 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201022160400 -0500" stop="20201022162000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201022162000 -0500" stop="20201022163100 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022163100 -0500" stop="20201022163700 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201022163700 -0500" stop="20201022164600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201022164600 -0500" stop="20201022170200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022170200 -0500" stop="20201022170300 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022170300 -0500" stop="20201022171200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022171200 -0500" stop="20201022172600 -0500" channel="Nat Geo Kids">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20201022172600 -0500" stop="20201022172800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20201022172800 -0500" stop="20201022174800 -0500" channel="Nat Geo Kids">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022174800 -0500" stop="20201022180000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Furiki Wheels</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022181500 -0500" channel="Nat Geo Kids">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201022181500 -0500" stop="20201022182900 -0500" channel="Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201022182900 -0500" stop="20201022184000 -0500" channel="Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201022184000 -0500" stop="20201022190200 -0500" channel="Nat Geo Kids">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021013000 -0500" channel="Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20201021013000 -0500" stop="20201021020000 -0500" channel="Baby TV">
+    <title lang="es">La luna y las estrellas</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021023000 -0500" channel="Baby TV">
+    <title lang="es">Las melodías nocturnas</title>
+  </programme>
+  <programme start="20201021023000 -0500" stop="20201021030000 -0500" channel="Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021033000 -0500" channel="Baby TV">
+    <title lang="es">Abrazos de Buenas Noches</title>
+  </programme>
+  <programme start="20201021033000 -0500" stop="20201021040000 -0500" channel="Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021043000 -0500" channel="Baby TV">
+    <title lang="es">La luna y las estrellas</title>
+  </programme>
+  <programme start="20201021043000 -0500" stop="20201021050000 -0500" channel="Baby TV">
+    <title lang="es">Sonidos Relajantes</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021053000 -0500" channel="Baby TV">
+    <title lang="es">De la Noche al Día</title>
+  </programme>
+  <programme start="20201021053000 -0500" stop="20201021060000 -0500" channel="Baby TV">
+    <title lang="es">De la Noche al Día</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021063000 -0500" channel="Baby TV">
+    <title lang="es">Amanence y brilla</title>
+  </programme>
+  <programme start="20201021063000 -0500" stop="20201021070000 -0500" channel="Baby TV">
+    <title lang="es">Amanence y brilla</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021073000 -0500" channel="Baby TV">
+    <title lang="es">El momento de los buenos dìas</title>
+  </programme>
+  <programme start="20201021073000 -0500" stop="20201021080000 -0500" channel="Baby TV">
+    <title lang="es">El momento de los buenos dìas</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Baby TV">
+    <title lang="es">Empieza tu dìa con los amigos</title>
+  </programme>
+  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Baby TV">
+    <title lang="es">Tutti Frutti y otras historias</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="Baby TV">
+    <title lang="es">La clase de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021103000 -0500" channel="Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20201021103000 -0500" stop="20201021110000 -0500" channel="Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="Baby TV">
+    <title lang="es">Explorando con BabyHood</title>
+  </programme>
+  <programme start="20201021113000 -0500" stop="20201021120000 -0500" channel="Baby TV">
+    <title lang="es">Estudios Baby TV</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021123000 -0500" channel="Baby TV">
+    <title lang="es">A bailar</title>
+  </programme>
+  <programme start="20201021123000 -0500" stop="20201021130000 -0500" channel="Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021133000 -0500" channel="Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20201021133000 -0500" stop="20201021140000 -0500" channel="Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021143000 -0500" channel="Baby TV">
+    <title lang="es">Explorando con BabyHood</title>
+  </programme>
+  <programme start="20201021143000 -0500" stop="20201021150000 -0500" channel="Baby TV">
+    <title lang="es">La Pequeña Pandilla</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021153000 -0500" channel="Baby TV">
+    <title lang="es">Ratones constructores</title>
+  </programme>
+  <programme start="20201021153000 -0500" stop="20201021160000 -0500" channel="Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021173000 -0500" channel="Baby TV">
+    <title lang="es">Explorando con BabyHood</title>
+  </programme>
+  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Baby TV">
+    <title lang="es">Descubriendo con Vegibugs</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021183000 -0500" channel="Baby TV">
+    <title lang="es">Juega y aprende con canciones</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021190000 -0500" channel="Baby TV">
+    <title lang="es">Juegos de adivinanzas</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021193000 -0500" channel="Baby TV">
+    <title lang="es">La hora de la diversión</title>
+  </programme>
+  <programme start="20201021193000 -0500" stop="20201021200000 -0500" channel="Baby TV">
+    <title lang="es">La hora de la diversión</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021203000 -0500" channel="Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021210000 -0500" channel="Baby TV">
+    <title lang="es">Música clásica e Historias</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021213000 -0500" channel="Baby TV">
+    <title lang="es">Cálmate y Relájate</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021220000 -0500" channel="Baby TV">
+    <title lang="es">Cálmate y Relájate</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201021233000 -0500" channel="Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022000000 -0500" channel="Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20201022153000 -0500" stop="20201022160000 -0500" channel="Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="Boomerang">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="Boomerang">
+    <title lang="es">Lluvia de hamburguesas serie</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="Boomerang">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="Boomerang">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021053000 -0500" channel="Boomerang">
+    <title lang="es">El inspector Gadget</title>
+  </programme>
+  <programme start="20201021053000 -0500" stop="20201021060000 -0500" channel="Boomerang">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Boomerang">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Boomerang">
+    <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
+  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="Boomerang">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021101500 -0500" channel="Boomerang">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20201021101500 -0500" stop="20201021103000 -0500" channel="Boomerang">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20201021103000 -0500" stop="20201021110000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="Boomerang">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20201021113000 -0500" stop="20201021120000 -0500" channel="Boomerang">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021123000 -0500" channel="Boomerang">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20201021123000 -0500" stop="20201021130000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021133000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021133000 -0500" stop="20201021134500 -0500" channel="Boomerang">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20201021134500 -0500" stop="20201021140000 -0500" channel="Boomerang">
+    <title lang="es">Dorothy y el Mago de Oz</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021143000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021143000 -0500" stop="20201021150000 -0500" channel="Boomerang">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Boomerang">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="Boomerang">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021173000 -0500" channel="Boomerang">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021181500 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021181500 -0500" stop="20201021183000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021190000 -0500" channel="Boomerang">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021193000 -0500" channel="Boomerang">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20201021193000 -0500" stop="20201021200000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021203000 -0500" channel="Boomerang">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021210000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="Boomerang">
+    <title lang="es">31 Minutos</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201021233000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022000000 -0500" channel="Boomerang">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20201022134500 -0500" stop="20201022140000 -0500" channel="Boomerang">
+    <title lang="es">Masha historias espeluznantes</title>
+  </programme>
+  <programme start="20201022150000 -0500" stop="20201022160000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022183000 -0500" channel="Boomerang">
+    <title lang="es">Dorothy y el Mago de Oz</title>
+  </programme>
+  <programme start="20201022183000 -0500" stop="20201022184500 -0500" channel="Boomerang">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20201022184500 -0500" stop="20201022190000 -0500" channel="Boomerang">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021013000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021013000 -0500" stop="20201021020000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021023000 -0500" channel="Ingenio TV">
+    <title lang="es">Comunicación</title>
+  </programme>
+  <programme start="20201021023000 -0500" stop="20201021030000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021033000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201021033000 -0500" stop="20201021040000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021043000 -0500" channel="Ingenio TV">
+    <title lang="es">Taller de Lectura y Redacción</title>
+  </programme>
+  <programme start="20201021043000 -0500" stop="20201021060000 -0500" channel="Ingenio TV">
+    <title lang="es">Lengua Adicional al Español I</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Ingenio TV">
+    <title lang="es">Aprendiendo a Amar a México</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="Ingenio TV">
+    <title lang="es">Infancias mexicanas</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social, Cívica</title>
+  </programme>
+  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021103000 -0500" channel="Ingenio TV">
+    <title lang="es">Comunicación</title>
+  </programme>
+  <programme start="20201021103000 -0500" stop="20201021110000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201021113000 -0500" stop="20201021120000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021123000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas I</title>
+  </programme>
+  <programme start="20201021123000 -0500" stop="20201021130000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística I</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021132000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística II</title>
+  </programme>
+  <programme start="20201021132000 -0500" stop="20201021140000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="Ingenio TV">
+    <title lang="es">Aprendiendo a Amar a México</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021153000 -0500" channel="Ingenio TV">
+    <title lang="es">Lengua materna</title>
+  </programme>
+  <programme start="20201021153000 -0500" stop="20201021160000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas I</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Ingenio TV">
+    <title lang="es">Formación Cívica y Ética I</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="Ingenio TV">
+    <title lang="es">Tecnología</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021173000 -0500" channel="Ingenio TV">
+    <title lang="es">Historia</title>
+  </programme>
+  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Ingenio TV">
+    <title lang="es">Cívica y Ética en Diálogo</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021183000 -0500" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social, Cívica</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021190000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021193000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021193000 -0500" stop="20201021200000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021203000 -0500" channel="Ingenio TV">
+    <title lang="es">Comunicación</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021210000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021213000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021220000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas I</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística I</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201021232000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística II</title>
+  </programme>
+  <programme start="20201021232000 -0500" stop="20201022000000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20201022013000 -0500" stop="20201022020000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201022023000 -0500" stop="20201022030000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201022030000 -0500" stop="20201022033000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201022040000 -0500" stop="20201022043000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas I</title>
+  </programme>
+  <programme start="20201022043000 -0500" stop="20201022050000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística I</title>
+  </programme>
+  <programme start="20201022050000 -0500" stop="20201022052000 -0500" channel="Ingenio TV">
+    <title lang="es">Probabilidad y Estadística II</title>
+  </programme>
+  <programme start="20201022052000 -0500" stop="20201022060000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022100000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201022100000 -0500" stop="20201022103000 -0500" channel="Ingenio TV">
+    <title lang="es">Comunicación</title>
+  </programme>
+  <programme start="20201022103000 -0500" stop="20201022110000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201022110000 -0500" stop="20201022113000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201022113000 -0500" stop="20201022120000 -0500" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social</title>
+  </programme>
+  <programme start="20201022120000 -0500" stop="20201022124000 -0500" channel="Ingenio TV">
+    <title lang="es">Estructura Socioeconómica</title>
+  </programme>
+  <programme start="20201022124000 -0500" stop="20201022130000 -0500" channel="Ingenio TV">
+    <title lang="es">Geografía de México</title>
+  </programme>
+  <programme start="20201022130000 -0500" stop="20201022134000 -0500" channel="Ingenio TV">
+    <title lang="es">Ciencias de la Salud I</title>
+  </programme>
+  <programme start="20201022134000 -0500" stop="20201022140000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20201022140000 -0500" stop="20201022150000 -0500" channel="Ingenio TV">
+    <title lang="es">Aprendiendo a Amar a México</title>
+  </programme>
+  <programme start="20201022150000 -0500" stop="20201022153000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas I</title>
+  </programme>
+  <programme start="20201022153000 -0500" stop="20201022160000 -0500" channel="Ingenio TV">
+    <title lang="es">Lengua materna</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022163000 -0500" channel="Ingenio TV">
+    <title lang="es">Química</title>
+  </programme>
+  <programme start="20201022163000 -0500" stop="20201022170000 -0500" channel="Ingenio TV">
+    <title lang="es">Formación Cívica y Ética I</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022173000 -0500" channel="Ingenio TV">
+    <title lang="es">Inglés I</title>
+  </programme>
+  <programme start="20201022173000 -0500" stop="20201022180000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación Física I</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022183000 -0500" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social, Cívica</title>
+  </programme>
+  <programme start="20201022183000 -0500" stop="20201022190000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201022190000 -0500" stop="20201022200000 -0500" channel="Ingenio TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201022203000 -0500" stop="20201022210000 -0500" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022213000 -0500" channel="Ingenio TV">
+    <title lang="es">Educación y saberes Digitales</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022220000 -0500" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social</title>
+  </programme>
+  <programme start="20201022220000 -0500" stop="20201022224000 -0500" channel="Ingenio TV">
+    <title lang="es">Estructura Socioeconómica</title>
+  </programme>
+  <programme start="20201022224000 -0500" stop="20201022230000 -0500" channel="Ingenio TV">
+    <title lang="es">Geografía de México</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201022234000 -0500" channel="Ingenio TV">
+    <title lang="es">Ciencias de la Salud I</title>
+  </programme>
+  <programme start="20201022234000 -0500" stop="20201023000000 -0500" channel="Ingenio TV">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20201021002600 -0500" stop="20201021005500 -0500" channel="Discovery">
+    <title lang="es">Ant Anstead, maestro...T.1</title>
+  </programme>
+  <programme start="20201021005500 -0500" stop="20201021014500 -0500" channel="Discovery">
+    <title lang="es">ADN mecánico</title>
+  </programme>
+  <programme start="20201021014500 -0500" stop="20201021023600 -0500" channel="Discovery">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20201021023600 -0500" stop="20201021032700 -0500" channel="Discovery">
+    <title lang="es">Lo mejor de Mexicánicos</title>
+  </programme>
+  <programme start="20201021032700 -0500" stop="20201021041800 -0500" channel="Discovery">
+    <title lang="es">Overhaulin</title>
+  </programme>
+  <programme start="20201021041800 -0500" stop="20201021050900 -0500" channel="Discovery">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20201021050900 -0500" stop="20201021053500 -0500" channel="Discovery">
+    <title lang="es">El mundo de los autos de Mike</title>
+  </programme>
+  <programme start="20201021053500 -0500" stop="20201021060000 -0500" channel="Discovery">
+    <title lang="es">Ant Anstead, maestro...T.1</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021065000 -0500" channel="Discovery">
+    <title lang="es">Alaska La última frontera</title>
+  </programme>
+  <programme start="20201021065000 -0500" stop="20201021074000 -0500" channel="Discovery">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20201021074000 -0500" stop="20201021083600 -0500" channel="Discovery">
+    <title lang="es">Planeta azul II</title>
+  </programme>
+  <programme start="20201021083600 -0500" stop="20201021092500 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201021092500 -0500" stop="20201021101500 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201021101500 -0500" stop="20201021110600 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201021110600 -0500" stop="20201021115600 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201021115600 -0500" stop="20201021124600 -0500" channel="Discovery">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20201021124600 -0500" stop="20201021133700 -0500" channel="Discovery">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20201021133700 -0500" stop="20201021142800 -0500" channel="Discovery">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20201021142800 -0500" stop="20201021151900 -0500" channel="Discovery">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20201021151900 -0500" stop="20201021161000 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201021161000 -0500" stop="20201021170100 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201021170100 -0500" stop="20201021180200 -0500" channel="Discovery">
+    <title lang="es">Cacería</title>
+  </programme>
+  <programme start="20201021180200 -0500" stop="20201021185700 -0500" channel="Discovery">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20201021185700 -0500" stop="20201021195200 -0500" channel="Discovery">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20201021195200 -0500" stop="20201021204900 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201021204900 -0500" stop="20201021211900 -0500" channel="Discovery">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20201021211900 -0500" stop="20201021215000 -0500" channel="Discovery">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20201021215000 -0500" stop="20201021221900 -0500" channel="Discovery">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20201021221900 -0500" stop="20201021224900 -0500" channel="Discovery">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20201021224900 -0500" stop="20201022001800 -0500" channel="Discovery">
+    <title lang="es">Clandestino</title>
+  </programme>
+  <programme start="20201022001800 -0500" stop="20201022004800 -0500" channel="Discovery">
+    <title lang="es">Operación Frontera Latinoamé</title>
+  </programme>
+  <programme start="20201022004800 -0500" stop="20201022014000 -0500" channel="Discovery">
+    <title lang="es">Contacto alienígena</title>
+  </programme>
+  <programme start="20201022014000 -0500" stop="20201022023200 -0500" channel="Discovery">
+    <title lang="es">Clandestino</title>
+  </programme>
+  <programme start="20201022023200 -0500" stop="20201022025800 -0500" channel="Discovery">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20201022025800 -0500" stop="20201022032400 -0500" channel="Discovery">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+  </programme>
+  <programme start="20201022032400 -0500" stop="20201022035000 -0500" channel="Discovery">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20201022035000 -0500" stop="20201022041600 -0500" channel="Discovery">
+    <title lang="es">Control de carreteras</title>
+  </programme>
+  <programme start="20201022041600 -0500" stop="20201022053400 -0500" channel="Discovery">
+    <title lang="es">Clandestino</title>
+  </programme>
+  <programme start="20201022053400 -0500" stop="20201022060000 -0500" channel="Discovery">
+    <title lang="es">Operación Frontera Latinoamé</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022065200 -0500" channel="Discovery">
+    <title lang="es">Alaska La última frontera</title>
+  </programme>
+  <programme start="20201022065200 -0500" stop="20201022074400 -0500" channel="Discovery">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20201022074400 -0500" stop="20201022083900 -0500" channel="Discovery">
+    <title lang="es">Planeta azul II</title>
+  </programme>
+  <programme start="20201022083900 -0500" stop="20201022093100 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201022093100 -0500" stop="20201022102300 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201022102300 -0500" stop="20201022111500 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201022111500 -0500" stop="20201022120600 -0500" channel="Discovery">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20201022120600 -0500" stop="20201022125700 -0500" channel="Discovery">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20201022125700 -0500" stop="20201022134900 -0500" channel="Discovery">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20201022134900 -0500" stop="20201022144000 -0500" channel="Discovery">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20201022144000 -0500" stop="20201022153100 -0500" channel="Discovery">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20201022153100 -0500" stop="20201022162300 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201022162300 -0500" stop="20201022171500 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201022171500 -0500" stop="20201022181600 -0500" channel="Discovery">
+    <title lang="es">Cacería</title>
+  </programme>
+  <programme start="20201022181600 -0500" stop="20201022191000 -0500" channel="Discovery">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20201022191000 -0500" stop="20201022200500 -0500" channel="Discovery">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20201022200500 -0500" stop="20201022210000 -0500" channel="Discovery">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022215800 -0500" channel="Discovery">
+    <title lang="es">Islas</title>
+  </programme>
+  <programme start="20201022215800 -0500" stop="20201022225100 -0500" channel="Discovery">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20201022225100 -0500" stop="20201022234700 -0500" channel="Discovery">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20201022234700 -0500" stop="20201023004200 -0500" channel="Discovery">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20201021000200 -0500" stop="20201021002800 -0500" channel="Discovery Turbo">
+    <title lang="es">Maestros de la Mecánica</title>
+  </programme>
+  <programme start="20201021002800 -0500" stop="20201021011700 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201021011700 -0500" stop="20201021020900 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201021020900 -0500" stop="20201021030100 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201021030100 -0500" stop="20201021035300 -0500" channel="Discovery Turbo">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20201021035300 -0500" stop="20201021044500 -0500" channel="Discovery Turbo">
+    <title lang="es">El auto o el dinero</title>
+  </programme>
+  <programme start="20201021044500 -0500" stop="20201021053700 -0500" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20201021053700 -0500" stop="20201021060000 -0500" channel="Discovery Turbo">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021065400 -0500" channel="Discovery Turbo">
+    <title lang="es">American Chopper</title>
+  </programme>
+  <programme start="20201021065400 -0500" stop="20201021071700 -0500" channel="Discovery Turbo">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201021071700 -0500" stop="20201021080200 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201021080200 -0500" stop="20201021085200 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201021085200 -0500" stop="20201021094500 -0500" channel="Discovery Turbo">
+    <title lang="es">Garaje Goblin</title>
+  </programme>
+  <programme start="20201021094500 -0500" stop="20201021103500 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201021103500 -0500" stop="20201021110100 -0500" channel="Discovery Turbo">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201021110100 -0500" stop="20201021112700 -0500" channel="Discovery Turbo">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201021112700 -0500" stop="20201021121800 -0500" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20201021121800 -0500" stop="20201021124500 -0500" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20201021124500 -0500" stop="20201021131200 -0500" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20201021131200 -0500" stop="20201021140200 -0500" channel="Discovery Turbo">
+    <title lang="es">Misión Avión</title>
+  </programme>
+  <programme start="20201021140200 -0500" stop="20201021145300 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201021145300 -0500" stop="20201021154500 -0500" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201021154500 -0500" stop="20201021163700 -0500" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201021163700 -0500" stop="20201021173100 -0500" channel="Discovery Turbo">
+    <title lang="es">Autos únicos con Will Castro</title>
+  </programme>
+  <programme start="20201021173100 -0500" stop="20201021175800 -0500" channel="Discovery Turbo">
+    <title lang="es">Negocio en Marcha</title>
+  </programme>
+  <programme start="20201021175800 -0500" stop="20201021182500 -0500" channel="Discovery Turbo">
+    <title lang="es">Negocio en Marcha</title>
+  </programme>
+  <programme start="20201021182500 -0500" stop="20201021191500 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201021191500 -0500" stop="20201021200600 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201021200600 -0500" stop="20201021210000 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021215400 -0500" channel="Discovery Turbo">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+  </programme>
+  <programme start="20201021215400 -0500" stop="20201021224500 -0500" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201021224500 -0500" stop="20201021233600 -0500" channel="Discovery Turbo">
+    <title lang="es">Mexicanicos: Best of season 4</title>
+  </programme>
+  <programme start="20201021233600 -0500" stop="20201022000300 -0500" channel="Discovery Turbo">
+    <title lang="es">Los Peores Conductores</title>
+  </programme>
+  <programme start="20201022233600 -0500" stop="20201023000300 -0500" channel="Discovery Turbo">
+    <title lang="es">Los Peores Conductores</title>
+  </programme>
+  <programme start="20201023000300 -0500" stop="20201023002700 -0500" channel="Discovery Turbo">
+    <title lang="es">Maestros de la Mecánica</title>
+  </programme>
+  <programme start="20201023002700 -0500" stop="20201023011400 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201023011400 -0500" stop="20201023020600 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201023020600 -0500" stop="20201023030000 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201023030000 -0500" stop="20201023035400 -0500" channel="Discovery Turbo">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+  </programme>
+  <programme start="20201023035400 -0500" stop="20201023044600 -0500" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20201023044600 -0500" stop="20201023053700 -0500" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20201023053700 -0500" stop="20201023060000 -0500" channel="Discovery Turbo">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201023060000 -0500" stop="20201023065000 -0500" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico</title>
+  </programme>
+  <programme start="20201023065000 -0500" stop="20201023071300 -0500" channel="Discovery Turbo">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201023071300 -0500" stop="20201023075800 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201023075800 -0500" stop="20201023084500 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201023084500 -0500" stop="20201023093700 -0500" channel="Discovery Turbo">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20201023093700 -0500" stop="20201023103100 -0500" channel="Discovery Turbo">
+    <title lang="es">FantomWorks</title>
+  </programme>
+  <programme start="20201023103100 -0500" stop="20201023112300 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201023112300 -0500" stop="20201023121600 -0500" channel="Discovery Turbo">
+    <title lang="es">Garaje Goblin</title>
+  </programme>
+  <programme start="20201023121600 -0500" stop="20201023124400 -0500" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20201023124400 -0500" stop="20201023131200 -0500" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20201023131200 -0500" stop="20201023140600 -0500" channel="Discovery Turbo">
+    <title lang="es">Misfit Garage</title>
+  </programme>
+  <programme start="20201023140600 -0500" stop="20201023145800 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201023145800 -0500" stop="20201023155000 -0500" channel="Discovery Turbo">
+    <title lang="es">Trans Am</title>
+  </programme>
+  <programme start="20201023155000 -0500" stop="20201023164000 -0500" channel="Discovery Turbo">
+    <title lang="es">Overhaulin</title>
+  </programme>
+  <programme start="20201023164000 -0500" stop="20201023173100 -0500" channel="Discovery Turbo">
+    <title lang="es">Texas Trocas</title>
+  </programme>
+  <programme start="20201023173100 -0500" stop="20201023175800 -0500" channel="Discovery Turbo">
+    <title lang="es">Negocio en Marcha</title>
+  </programme>
+  <programme start="20201023175800 -0500" stop="20201023182500 -0500" channel="Discovery Turbo">
+    <title lang="es">Negocio en Marcha</title>
+  </programme>
+  <programme start="20201023182500 -0500" stop="20201023191400 -0500" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20201023191400 -0500" stop="20201023200600 -0500" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201023200600 -0500" stop="20201023210000 -0500" channel="Discovery Turbo">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201023210000 -0500" stop="20201023212700 -0500" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201023212700 -0500" stop="20201023215400 -0500" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201023215400 -0500" stop="20201023224500 -0500" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20201023224500 -0500" stop="20201023233600 -0500" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20201021003600 -0500" stop="20201021013000 -0500" channel="National Geographic">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20201021013000 -0500" stop="20201021021400 -0500" channel="National Geographic">
+    <title lang="es">Catástrofes aéreas</title>
+  </programme>
+  <programme start="20201021021400 -0500" stop="20201021030100 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Madrid</title>
+  </programme>
+  <programme start="20201021030100 -0500" stop="20201021034900 -0500" channel="National Geographic">
+    <title lang="es">Imperio Perdido de la Isla de</title>
+  </programme>
+  <programme start="20201021034900 -0500" stop="20201021043600 -0500" channel="National Geographic">
+    <title lang="es">Lo Mejor de Ciudades Perdidas</title>
+  </programme>
+  <programme start="20201021043600 -0500" stop="20201021052300 -0500" channel="National Geographic">
+    <title lang="es">Lo Mejor de Secreto en los Oc</title>
+  </programme>
+  <programme start="20201021052300 -0500" stop="20201021060600 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201021060600 -0500" stop="20201021062800 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201021062800 -0500" stop="20201021070000 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021074200 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201021074200 -0500" stop="20201021083100 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201021083100 -0500" stop="20201021085700 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201021085700 -0500" stop="20201021092400 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201021092400 -0500" stop="20201021095100 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021095100 -0500" stop="20201021101800 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021101800 -0500" stop="20201021104400 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021104400 -0500" stop="20201021110600 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021110600 -0500" stop="20201021113600 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201021113600 -0500" stop="20201021122900 -0500" channel="National Geographic">
+    <title lang="es">Cosmos: Mundos Posibles</title>
+  </programme>
+  <programme start="20201021122900 -0500" stop="20201021131800 -0500" channel="National Geographic">
+    <title lang="es">Solo contra el mundo</title>
+  </programme>
+  <programme start="20201021131800 -0500" stop="20201021141100 -0500" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20201021141100 -0500" stop="20201021145900 -0500" channel="National Geographic">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20201021145900 -0500" stop="20201021155300 -0500" channel="National Geographic">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20201021155300 -0500" stop="20201021164600 -0500" channel="National Geographic">
+    <title lang="es">Catástrofes aéreas</title>
+  </programme>
+  <programme start="20201021164600 -0500" stop="20201021174000 -0500" channel="National Geographic">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20201021174000 -0500" stop="20201021183300 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201021183300 -0500" stop="20201021191700 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201021191700 -0500" stop="20201021201600 -0500" channel="National Geographic">
+    <title lang="es">Las mujeres de las FARC</title>
+  </programme>
+  <programme start="20201021201600 -0500" stop="20201021211100 -0500" channel="National Geographic">
+    <title lang="es">Rehenes</title>
+  </programme>
+  <programme start="20201021211100 -0500" stop="20201021220000 -0500" channel="National Geographic">
+    <title lang="es">Fronteras al límite</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021225400 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Roma</title>
+  </programme>
+  <programme start="20201021225400 -0500" stop="20201021234700 -0500" channel="National Geographic">
+    <title lang="es">Lo mejor de alerta aeropuerto</title>
+  </programme>
+  <programme start="20201021234700 -0500" stop="20201022001500 -0500" channel="National Geographic">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20201022234700 -0500" stop="20201023001500 -0500" channel="National Geographic">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20201023001500 -0500" stop="20201023004000 -0500" channel="National Geographic">
+    <title lang="es">Custodios de la Frontera</title>
+  </programme>
+  <programme start="20201023004000 -0500" stop="20201023013000 -0500" channel="National Geographic">
+    <title lang="es">Mercado negro</title>
+  </programme>
+  <programme start="20201023013000 -0500" stop="20201023022000 -0500" channel="National Geographic">
+    <title lang="es">Catástrofes aéreas</title>
+  </programme>
+  <programme start="20201023022000 -0500" stop="20201023031000 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201023031000 -0500" stop="20201023040000 -0500" channel="National Geographic">
+    <title lang="es">Rehenes</title>
+  </programme>
+  <programme start="20201023040000 -0500" stop="20201023045000 -0500" channel="National Geographic">
+    <title lang="es">Fronteras al límite</title>
+  </programme>
+  <programme start="20201023045000 -0500" stop="20201023054000 -0500" channel="National Geographic">
+    <title lang="es">Lo mejor de alerta aeropuerto</title>
+  </programme>
+  <programme start="20201023054000 -0500" stop="20201023063000 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201023063000 -0500" stop="20201023070000 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023070000 -0500" stop="20201023072500 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201023072500 -0500" stop="20201023075000 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201023075000 -0500" stop="20201023084500 -0500" channel="National Geographic">
+    <title lang="es">Juegos mentales</title>
+  </programme>
+  <programme start="20201023084500 -0500" stop="20201023091000 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023091000 -0500" stop="20201023094000 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023094000 -0500" stop="20201023100500 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023100500 -0500" stop="20201023103500 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023103500 -0500" stop="20201023110000 -0500" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20201023110000 -0500" stop="20201023115000 -0500" channel="National Geographic">
+    <title lang="es">Cosmos: Mundos Posibles</title>
+  </programme>
+  <programme start="20201023115000 -0500" stop="20201023124500 -0500" channel="National Geographic">
+    <title lang="es">Como lo hace la Tribú</title>
+  </programme>
+  <programme start="20201023124500 -0500" stop="20201023134000 -0500" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20201023134000 -0500" stop="20201023143500 -0500" channel="National Geographic">
+    <title lang="es">Megaestructuras nazis</title>
+  </programme>
+  <programme start="20201023143500 -0500" stop="20201023153000 -0500" channel="National Geographic">
+    <title lang="es">Frontera zona de peligro</title>
+  </programme>
+  <programme start="20201023153000 -0500" stop="20201023162500 -0500" channel="National Geographic">
+    <title lang="es">Catástrofes aéreas</title>
+  </programme>
+  <programme start="20201023162500 -0500" stop="20201023172000 -0500" channel="National Geographic">
+    <title lang="es">Preso en el extranjero</title>
+  </programme>
+  <programme start="20201023172000 -0500" stop="20201023181500 -0500" channel="National Geographic">
+    <title lang="es">Lo mejor de alerta aeropuerto</title>
+  </programme>
+  <programme start="20201023181500 -0500" stop="20201023191000 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201023191000 -0500" stop="20201023200500 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201023200500 -0500" stop="20201023210000 -0500" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20201023210000 -0500" stop="20201023220000 -0500" channel="National Geographic">
+    <title lang="es">Misterios en las Pirámides</title>
+  </programme>
+  <programme start="20201023220000 -0500" stop="20201024013000 -0500" channel="National Geographic">
+    <title lang="es">Lo Mejor de Secreto en los Oc</title>
+  </programme>
+  <programme start="20201021003200 -0500" stop="20201021012300 -0500" channel="Nat Geo Wild">
+    <title lang="es">Un Leopardo Fuera de lo Común</title>
+  </programme>
+  <programme start="20201021012300 -0500" stop="20201021020800 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201021020800 -0500" stop="20201021025600 -0500" channel="Nat Geo Wild">
+    <title lang="es">Serpientes Letales de Asia</title>
+  </programme>
+  <programme start="20201021025600 -0500" stop="20201021034200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Yukon Vet</title>
+  </programme>
+  <programme start="20201021034200 -0500" stop="20201021042800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20201021042800 -0500" stop="20201021051200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Amur, el Amazonas de Asia</title>
+  </programme>
+  <programme start="20201021051200 -0500" stop="20201021060000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los más Raros del Mundo</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021064800 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201021064800 -0500" stop="20201021070000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021074700 -0500" channel="Nat Geo Wild">
+    <title lang="es">La serpiente reina</title>
+  </programme>
+  <programme start="20201021074700 -0500" stop="20201021075400 -0500" channel="Nat Geo Wild">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201021075400 -0500" stop="20201021084500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Amistades Insólitas</title>
+  </programme>
+  <programme start="20201021084500 -0500" stop="20201021093800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20201021093800 -0500" stop="20201021102800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Buscadores de Mascotas</title>
+  </programme>
+  <programme start="20201021102800 -0500" stop="20201021111700 -0500" channel="Nat Geo Wild">
+    <title lang="es">Nacidos en Africa</title>
+  </programme>
+  <programme start="20201021111700 -0500" stop="20201021121700 -0500" channel="Nat Geo Wild">
+    <title lang="es">Imperio Salvaje</title>
+  </programme>
+  <programme start="20201021121700 -0500" stop="20201021130500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Cazadores salvajes</title>
+  </programme>
+  <programme start="20201021130500 -0500" stop="20201021135800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Superserpientes africanas</title>
+  </programme>
+  <programme start="20201021135800 -0500" stop="20201021145200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los animales más peligrosos: Cocodrilos</title>
+  </programme>
+  <programme start="20201021145200 -0500" stop="20201021154500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Serpientes tigre: Salvajes y mortales</title>
+  </programme>
+  <programme start="20201021154500 -0500" stop="20201021163900 -0500" channel="Nat Geo Wild">
+    <title lang="es">Destino wild: Río salvaje</title>
+  </programme>
+  <programme start="20201021163900 -0500" stop="20201021173300 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los cazadores de la noche</title>
+  </programme>
+  <programme start="20201021173300 -0500" stop="20201021182600 -0500" channel="Nat Geo Wild">
+    <title lang="es">Cuando los tiburones atacan</title>
+  </programme>
+  <programme start="20201021182600 -0500" stop="20201021190900 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201021190900 -0500" stop="20201021200000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los Depredadores más peligrosos de África</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021205200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Cuando los tiburones atacan</title>
+  </programme>
+  <programme start="20201021205200 -0500" stop="20201021214400 -0500" channel="Nat Geo Wild">
+    <title lang="es">El club de la pelea animal</title>
+  </programme>
+  <programme start="20201021214400 -0500" stop="20201021223800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Depredadores africanos</title>
+  </programme>
+  <programme start="20201021223800 -0500" stop="20201021233000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los Animales más Peligrosos de Australia</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022002400 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los Animales más Peligrosos</title>
+  </programme>
+  <programme start="20201022002400 -0500" stop="20201022010900 -0500" channel="Nat Geo Wild">
+    <title lang="es">El Leopardo de las Nieves de Afganistán</title>
+  </programme>
+  <programme start="20201022010900 -0500" stop="20201022015800 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201022015800 -0500" stop="20201022024500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Tigres En Guerra</title>
+  </programme>
+  <programme start="20201022024500 -0500" stop="20201022033100 -0500" channel="Nat Geo Wild">
+    <title lang="es">Yukon Vet</title>
+  </programme>
+  <programme start="20201022033100 -0500" stop="20201022041400 -0500" channel="Nat Geo Wild">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20201022041400 -0500" stop="20201022045800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Wild 24</title>
+  </programme>
+  <programme start="20201022045800 -0500" stop="20201022054600 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los más Raros del Mundo</title>
+  </programme>
+  <programme start="20201022054600 -0500" stop="20201022063400 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201022063400 -0500" stop="20201022065800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Criaturas Adorables</title>
+  </programme>
+  <programme start="20201022065800 -0500" stop="20201022070000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201022070000 -0500" stop="20201022080300 -0500" channel="Nat Geo Wild">
+    <title lang="es">Amistades Insólitas</title>
+  </programme>
+  <programme start="20201022080300 -0500" stop="20201022085500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Amistades Insólitas</title>
+  </programme>
+  <programme start="20201022085500 -0500" stop="20201022094700 -0500" channel="Nat Geo Wild">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20201022094700 -0500" stop="20201022103900 -0500" channel="Nat Geo Wild">
+    <title lang="es">Buscadores de Mascotas</title>
+  </programme>
+  <programme start="20201022103900 -0500" stop="20201022113200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Nacidos en Africa</title>
+  </programme>
+  <programme start="20201022113200 -0500" stop="20201022122200 -0500" channel="Nat Geo Wild">
+    <title lang="es">Imperio Salvaje</title>
+  </programme>
+  <programme start="20201022122200 -0500" stop="20201022131000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los más raros: Caras extrañas</title>
+  </programme>
+  <programme start="20201022131000 -0500" stop="20201022140100 -0500" channel="Nat Geo Wild">
+    <title lang="es">Yukon Vet</title>
+  </programme>
+  <programme start="20201022140100 -0500" stop="20201022145200 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201022145200 -0500" stop="20201022154500 -0500" channel="Nat Geo Wild">
+    <title lang="es">Peces Legendarios</title>
+  </programme>
+  <programme start="20201022154500 -0500" stop="20201022163800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Serpientes en la ciudad</title>
+  </programme>
+  <programme start="20201022163800 -0500" stop="20201022172900 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los Depredadores más peligrosos de África</title>
+  </programme>
+  <programme start="20201022172900 -0500" stop="20201022181800 -0500" channel="Nat Geo Wild">
+    <title lang="es">Cuando los tiburones atacan</title>
+  </programme>
+  <programme start="20201022181800 -0500" stop="20201022190400 -0500" channel="Nat Geo Wild">
+    <title lang="es">El increible dr. pol</title>
+  </programme>
+  <programme start="20201022190400 -0500" stop="20201022193100 -0500" channel="Nat Geo Wild">
+    <title lang="es">Criaturas Adorables</title>
+  </programme>
+  <programme start="20201022193100 -0500" stop="20201022200000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Criaturas Adorables</title>
+  </programme>
+  <programme start="20201022200000 -0500" stop="20201022205100 -0500" channel="Nat Geo Wild">
+    <title lang="es">Buscadores de Mascotas</title>
+  </programme>
+  <programme start="20201022205100 -0500" stop="20201022211300 -0500" channel="Nat Geo Wild">
+    <title lang="es">Asombrosamente raros</title>
+  </programme>
+  <programme start="20201022211300 -0500" stop="20201022215900 -0500" channel="Nat Geo Wild">
+    <title lang="es">Locuras Animales</title>
+  </programme>
+  <programme start="20201022215900 -0500" stop="20201022225000 -0500" channel="Nat Geo Wild">
+    <title lang="es">Peligros de la Naturaleza</title>
+  </programme>
+  <programme start="20201022225000 -0500" stop="20201022234300 -0500" channel="Nat Geo Wild">
+    <title lang="es">Los Animales más Peligrosos</title>
+  </programme>
+  <programme start="20201022234300 -0500" stop="20201023003600 -0500" channel="Nat Geo Wild">
+    <title lang="es">El rescate de las panteras</title>
+  </programme>
+  <programme start="20201021001000 -0500" stop="20201021003700 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021003700 -0500" stop="20201021010400 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021010400 -0500" stop="20201021013100 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021013100 -0500" stop="20201021015800 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021015800 -0500" stop="20201021025200 -0500" channel="Animal Planet">
+    <title lang="es">Cacería</title>
+  </programme>
+  <programme start="20201021025200 -0500" stop="20201021031900 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021031900 -0500" stop="20201021034600 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021034600 -0500" stop="20201021041200 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021041200 -0500" stop="20201021043900 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021043900 -0500" stop="20201021050600 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021050600 -0500" stop="20201021053200 -0500" channel="Animal Planet">
+    <title lang="es">Vida azul</title>
+  </programme>
+  <programme start="20201021053200 -0500" stop="20201021060000 -0500" channel="Animal Planet">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021062800 -0500" channel="Animal Planet">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20201021062800 -0500" stop="20201021072100 -0500" channel="Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20201021072100 -0500" stop="20201021081300 -0500" channel="Animal Planet">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20201021081300 -0500" stop="20201021090500 -0500" channel="Animal Planet">
+    <title lang="es">Pit bulls y convictos</title>
+  </programme>
+  <programme start="20201021090500 -0500" stop="20201021095800 -0500" channel="Animal Planet">
+    <title lang="es">Evan a lo salvaje</title>
+  </programme>
+  <programme start="20201021095800 -0500" stop="20201021102400 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201021102400 -0500" stop="20201021105100 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201021105100 -0500" stop="20201021111700 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201021111700 -0500" stop="20201021114400 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201021114400 -0500" stop="20201021123700 -0500" channel="Animal Planet">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20201021123700 -0500" stop="20201021133000 -0500" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20201021133000 -0500" stop="20201021142300 -0500" channel="Animal Planet">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20201021142300 -0500" stop="20201021151600 -0500" channel="Animal Planet">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20201021151600 -0500" stop="20201021160900 -0500" channel="Animal Planet">
+    <title lang="es">Evan a lo salvaje</title>
+  </programme>
+  <programme start="20201021160900 -0500" stop="20201021170200 -0500" channel="Animal Planet">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20201021170200 -0500" stop="20201021184800 -0500" channel="Animal Planet">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20201021184800 -0500" stop="20201021194100 -0500" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20201021194100 -0500" stop="20201021203500 -0500" channel="Animal Planet">
+    <title lang="es">Expediciones con Steve Backsh</title>
+  </programme>
+  <programme start="20201021203500 -0500" stop="20201021212800 -0500" channel="Animal Planet">
+    <title lang="es">Expediciones con Steve Backsh</title>
+  </programme>
+  <programme start="20201021212800 -0500" stop="20201021222500 -0500" channel="Animal Planet">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20201021222500 -0500" stop="20201021232400 -0500" channel="Animal Planet">
+    <title lang="es">Mundo natural orangutanes de</title>
+  </programme>
+  <programme start="20201021232400 -0500" stop="20201021235100 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201021235100 -0500" stop="20201022001800 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201022235100 -0500" stop="20201023001800 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023001800 -0500" stop="20201023004500 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023004500 -0500" stop="20201023011200 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023011200 -0500" stop="20201023020300 -0500" channel="Animal Planet">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20201023020300 -0500" stop="20201023025700 -0500" channel="Animal Planet">
+    <title lang="es">Expediciones con Steve Backsh</title>
+  </programme>
+  <programme start="20201023025700 -0500" stop="20201023035100 -0500" channel="Animal Planet">
+    <title lang="es">Expediciones con Steve Backsh</title>
+  </programme>
+  <programme start="20201023035100 -0500" stop="20201023041700 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023041700 -0500" stop="20201023044200 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023044200 -0500" stop="20201023050800 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023050800 -0500" stop="20201023053300 -0500" channel="Animal Planet">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20201023053300 -0500" stop="20201023060000 -0500" channel="Animal Planet">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20201023060000 -0500" stop="20201023062800 -0500" channel="Animal Planet">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20201023062800 -0500" stop="20201023072000 -0500" channel="Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20201023072000 -0500" stop="20201023081200 -0500" channel="Animal Planet">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20201023081200 -0500" stop="20201023090500 -0500" channel="Animal Planet">
+    <title lang="es">Pit bulls y convictos</title>
+  </programme>
+  <programme start="20201023090500 -0500" stop="20201023095800 -0500" channel="Animal Planet">
+    <title lang="es">Expediciones con Steve Backsh</title>
+  </programme>
+  <programme start="20201023095800 -0500" stop="20201023105100 -0500" channel="Animal Planet">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20201023105100 -0500" stop="20201023114400 -0500" channel="Animal Planet">
+    <title lang="es">La presa con Joel Lambert</title>
+  </programme>
+  <programme start="20201023114400 -0500" stop="20201023123700 -0500" channel="Animal Planet">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20201023123700 -0500" stop="20201023133000 -0500" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20201023133000 -0500" stop="20201023142300 -0500" channel="Animal Planet">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20201023142300 -0500" stop="20201023151600 -0500" channel="Animal Planet">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20201023151600 -0500" stop="20201023160900 -0500" channel="Animal Planet">
+    <title lang="es">Evan a lo salvaje</title>
+  </programme>
+  <programme start="20201023160900 -0500" stop="20201023170200 -0500" channel="Animal Planet">
+    <title lang="es">Islas de Indonesia</title>
+  </programme>
+  <programme start="20201023170200 -0500" stop="20201023175500 -0500" channel="Animal Planet">
+    <title lang="es">Islas de Indonesia</title>
+  </programme>
+  <programme start="20201023175500 -0500" stop="20201023184800 -0500" channel="Animal Planet">
+    <title lang="es">Islas de Indonesia</title>
+  </programme>
+  <programme start="20201023184800 -0500" stop="20201023194100 -0500" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20201023194100 -0500" stop="20201023200800 -0500" channel="Animal Planet">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20201023200800 -0500" stop="20201023203400 -0500" channel="Animal Planet">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20201023203400 -0500" stop="20201023210100 -0500" channel="Animal Planet">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20201023210100 -0500" stop="20201023212800 -0500" channel="Animal Planet">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20201023212800 -0500" stop="20201023222200 -0500" channel="Animal Planet">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20201023222200 -0500" stop="20201023231600 -0500" channel="Animal Planet">
+    <title lang="es">La presa con Joel Lambert</title>
+  </programme>
+  <programme start="20201023231600 -0500" stop="20201024001000 -0500" channel="Animal Planet">
+    <title lang="es">Guardianes de Lobos</title>
+  </programme>
+  <programme start="20201021002000 -0500" stop="20201021011000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021011000 -0500" stop="20201021020000 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021025500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021025500 -0500" stop="20201021035000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021035000 -0500" stop="20201021041500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021041500 -0500" stop="20201021044000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021044000 -0500" stop="20201021051000 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201021051000 -0500" stop="20201021060000 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021062200 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021062200 -0500" stop="20201021064500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021064500 -0500" stop="20201021073500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021073500 -0500" stop="20201021082500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021082500 -0500" stop="20201021091500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021091500 -0500" stop="20201021094000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021094000 -0500" stop="20201021100500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021100500 -0500" stop="20201021105500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021105500 -0500" stop="20201021115000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021115000 -0500" stop="20201021124000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021124000 -0500" stop="20201021131000 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201021131000 -0500" stop="20201021140500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021140500 -0500" stop="20201021150000 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021155000 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201021155000 -0500" stop="20201021162000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021162000 -0500" stop="20201021164500 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201021164500 -0500" stop="20201021171500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021171500 -0500" stop="20201021174000 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201021174000 -0500" stop="20201021183000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021192000 -0500" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201021192000 -0500" stop="20201021201000 -0500" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201021201000 -0500" stop="20201021210000 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021215000 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201021215000 -0500" stop="20201021224000 -0500" channel="History Channel">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201021224000 -0500" stop="20201021230500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201021230500 -0500" stop="20201021233000 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022002500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201022233000 -0500" stop="20201023002500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023002500 -0500" stop="20201023011500 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201023011500 -0500" stop="20201023021000 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201023021000 -0500" stop="20201023030000 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023030000 -0500" stop="20201023035000 -0500" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201023035000 -0500" stop="20201023041500 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201023041500 -0500" stop="20201023051000 -0500" channel="History Channel">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201023051000 -0500" stop="20201023053500 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201023053500 -0500" stop="20201023060000 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201023060000 -0500" stop="20201023064500 -0500" channel="History Channel">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201023064500 -0500" stop="20201023073500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023073500 -0500" stop="20201023082500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023082500 -0500" stop="20201023091500 -0500" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201023091500 -0500" stop="20201023100500 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201023100500 -0500" stop="20201023105500 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023105500 -0500" stop="20201023115000 -0500" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20201023115000 -0500" stop="20201023122000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201023122000 -0500" stop="20201023131000 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201023131000 -0500" stop="20201023140500 -0500" channel="History Channel">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023140500 -0500" stop="20201023150000 -0500" channel="History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20201023150000 -0500" stop="20201023155000 -0500" channel="History Channel">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20201023155000 -0500" stop="20201023164500 -0500" channel="History Channel">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20201023164500 -0500" stop="20201023171000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201023171000 -0500" stop="20201023173500 -0500" channel="History Channel">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20201023173500 -0500" stop="20201023182500 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201023182500 -0500" stop="20201023192000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego LATAM</title>
+  </programme>
+  <programme start="20201023192000 -0500" stop="20201023201000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201023201000 -0500" stop="20201023210000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201023210000 -0500" stop="20201023215000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201023215000 -0500" stop="20201023224000 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201023224000 -0500" stop="20201023233000 -0500" channel="History Channel">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20201023233000 -0500" stop="20201024002500 -0500" channel="History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021012500 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201021012500 -0500" stop="20201021022500 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021022500 -0500" stop="20201021032000 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021032000 -0500" stop="20201021041500 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021041500 -0500" stop="20201021051000 -0500" channel="H2">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201021051000 -0500" stop="20201021060000 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="H2">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="H2">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021095500 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201021095500 -0500" stop="20201021105000 -0500" channel="H2">
+    <title lang="es">La iglesia oculta</title>
+  </programme>
+  <programme start="20201021105000 -0500" stop="20201021114000 -0500" channel="H2">
+    <title lang="es">La iglesia oculta</title>
+  </programme>
+  <programme start="20201021114000 -0500" stop="20201021123000 -0500" channel="H2">
+    <title lang="es">La Biblia prohibida</title>
+  </programme>
+  <programme start="20201021123000 -0500" stop="20201021132500 -0500" channel="H2">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201021132500 -0500" stop="20201021142000 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201021142000 -0500" stop="20201021151500 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201021151500 -0500" stop="20201021161000 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021161000 -0500" stop="20201021170500 -0500" channel="H2">
+    <title lang="es">Granjeros</title>
+  </programme>
+  <programme start="20201021170500 -0500" stop="20201021180000 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021190000 -0500" channel="H2">
+    <title lang="es">El legado de las civilizaciones</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021200000 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021205500 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201021205500 -0500" stop="20201021215000 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201021215000 -0500" stop="20201021225000 -0500" channel="H2">
+    <title lang="es">La guerra del pacífico a color</title>
+  </programme>
+  <programme start="20201021225000 -0500" stop="20201021235000 -0500" channel="H2">
+    <title lang="es">La guerra del pacífico a color</title>
+  </programme>
+  <programme start="20201021235000 -0500" stop="20201022005000 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201022005000 -0500" stop="20201022012000 -0500" channel="H2">
+    <title lang="es">Un genio entre nosotros</title>
+  </programme>
+  <programme start="20201022012000 -0500" stop="20201022021500 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201022021500 -0500" stop="20201022031000 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201022031000 -0500" stop="20201022041000 -0500" channel="H2">
+    <title lang="es">La guerra del pacífico a color</title>
+  </programme>
+  <programme start="20201022041000 -0500" stop="20201022051000 -0500" channel="H2">
+    <title lang="es">La guerra del pacífico a color</title>
+  </programme>
+  <programme start="20201022051000 -0500" stop="20201022060000 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022070000 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022095500 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201022095500 -0500" stop="20201022104500 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201022104500 -0500" stop="20201022114000 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201022114000 -0500" stop="20201022123000 -0500" channel="H2">
+    <title lang="es">Guerreros</title>
+  </programme>
+  <programme start="20201022123000 -0500" stop="20201022132500 -0500" channel="H2">
+    <title lang="es">Guerreros</title>
+  </programme>
+  <programme start="20201022132500 -0500" stop="20201022142000 -0500" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20201022142000 -0500" stop="20201022151500 -0500" channel="H2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201022151500 -0500" stop="20201022160500 -0500" channel="H2">
+    <title lang="es">Guerreros</title>
+  </programme>
+  <programme start="20201022160500 -0500" stop="20201022170000 -0500" channel="H2">
+    <title lang="es">Guerreros</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022180000 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022190000 -0500" channel="H2">
+    <title lang="es">La primera guerra mundial</title>
   </programme>
   <programme start="20201021010000 -0500" stop="20201021040000 -0500" channel="ESPN">
     <title lang="es">Barça TV</title>
@@ -676,5 +3081,239 @@
   </programme>
   <programme start="20201023233000 -0500" stop="20201024000000 -0500" channel="Fox Sports 3">
     <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201021012500 -0500" stop="20201021030100 -0500" channel="Cinemax">
+    <title lang="es">Nunca Digas su Nombre</title>
+  </programme>
+  <programme start="20201021030100 -0500" stop="20201021042000 -0500" channel="Cinemax">
+    <title lang="es">Inactividad Paranormal 2</title>
+  </programme>
+  <programme start="20201021042000 -0500" stop="20201021060700 -0500" channel="Cinemax">
+    <title lang="es">Sing street</title>
+  </programme>
+  <programme start="20201021060700 -0500" stop="20201021082700 -0500" channel="Cinemax">
+    <title lang="es">La última pelea</title>
+  </programme>
+  <programme start="20201021082700 -0500" stop="20201021100800 -0500" channel="Cinemax">
+    <title lang="es">La maldición de Charlie</title>
+  </programme>
+  <programme start="20201021100800 -0500" stop="20201021120800 -0500" channel="Cinemax">
+    <title lang="es">Fuerzas especiales</title>
+  </programme>
+  <programme start="20201021120800 -0500" stop="20201021143500 -0500" channel="Cinemax">
+    <title lang="es">La sombra del poder</title>
+  </programme>
+  <programme start="20201021143500 -0500" stop="20201021163500 -0500" channel="Cinemax">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20201021163500 -0500" stop="20201021184300 -0500" channel="Cinemax">
+    <title lang="es">Venganza de la casa del lago</title>
+  </programme>
+  <programme start="20201021184300 -0500" stop="20201021210000 -0500" channel="Cinemax">
+    <title lang="es">Los Secretos de Stonehearst</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021224900 -0500" channel="Cinemax">
+    <title lang="es">La maldición de Charlie</title>
+  </programme>
+  <programme start="20201021224900 -0500" stop="20201022013000 -0500" channel="Cinemax">
+    <title lang="es">Hannibal</title>
+  </programme>
+  <programme start="20201022013000 -0500" stop="20201022040200 -0500" channel="Cinemax">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20201022040200 -0500" stop="20201022061300 -0500" channel="Cinemax">
+    <title lang="es">El discurso dEl Rey</title>
+  </programme>
+  <programme start="20201022061300 -0500" stop="20201022085200 -0500" channel="Cinemax">
+    <title lang="es">Mundo Acuático</title>
+  </programme>
+  <programme start="20201022085200 -0500" stop="20201022104100 -0500" channel="Cinemax">
+    <title lang="es">Ninja II</title>
+  </programme>
+  <programme start="20201022104100 -0500" stop="20201022124600 -0500" channel="Cinemax">
+    <title lang="es">Contagio</title>
+  </programme>
+  <programme start="20201022124600 -0500" stop="20201022151800 -0500" channel="Cinemax">
+    <title lang="es">El plan perfecto</title>
+  </programme>
+  <programme start="20201022151800 -0500" stop="20201022172300 -0500" channel="Cinemax">
+    <title lang="es">El plan maestro</title>
+  </programme>
+  <programme start="20201022172300 -0500" stop="20201022191500 -0500" channel="Cinemax">
+    <title lang="es">Quemese después de leerse</title>
+  </programme>
+  <programme start="20201022191500 -0500" stop="20201022210000 -0500" channel="Cinemax">
+    <title lang="es">Código de defensa</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022230500 -0500" channel="Cinemax">
+    <title lang="es">Contagio</title>
+  </programme>
+  <programme start="20201022230500 -0500" stop="20201023013800 -0500" channel="Cinemax">
+    <title lang="es">El plan perfecto</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="CNNE">
+    <title lang="es">Camilo Repetición</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="CNNE">
+    <title lang="es">Perspectivas desde B.A</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="CNNE">
+    <title lang="es">Directo USA con Juan Lopez</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="CNNE">
+    <title lang="es">Camilo Repetición</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021053000 -0500" channel="CNNE">
+    <title lang="es">Destinos</title>
+  </programme>
+  <programme start="20201021053000 -0500" stop="20201021060000 -0500" channel="CNNE">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="CNNE">
+    <title lang="es">CNN Primera Mañana</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021090000 -0500" channel="CNNE">
+    <title lang="es">Café CNN Repetición</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="CNNE">
+    <title lang="es">Aristegui Repetición</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="CNNE">
+    <title lang="es">Destinos</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021110000 -0500" channel="CNNE">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="CNNE">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021130000 -0500" channel="CNNE">
+    <title lang="es">Camilo Repetición</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021133000 -0500" channel="CNNE">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20201021133000 -0500" stop="20201021140000 -0500" channel="CNNE">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="CNNE">
+    <title lang="es">Panorama Mundial En Vivo</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="CNNE">
+    <title lang="es">Directo USA con Juan Lopez</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021170000 -0500" channel="CNNE">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021180000 -0500" channel="CNNE">
+    <title lang="es">Perspectivas desde Mexico</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021190000 -0500" channel="CNNE">
+    <title lang="es">Perspectivas desde B.A</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021200000 -0500" channel="CNNE">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021210000 -0500" channel="CNNE">
+    <title lang="es">Camilo En Vivo</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="CNNE">
+    <title lang="es">Conclusiones En Vivo</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="CNNE">
+    <title lang="es">Aristegui</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="CNNE">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="CNNE">
+    <title lang="es">Perspectivas desde Mexico</title>
+  </programme>
+  <programme start="20201022150000 -0500" stop="20201022160000 -0500" channel="CNNE">
+    <title lang="es">Directo USA con Juan Lopez</title>
+  </programme>
+  <programme start="20201021023000 -0500" stop="20201021030000 -0500" channel="CNNI">
+    <title lang="es">Talk Asia</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="CNNI">
+    <title lang="es">Early Start</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021043000 -0500" channel="CNNI">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20201021043000 -0500" stop="20201021050000 -0500" channel="CNNI">
+    <title lang="es">Amanpour</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021070000 -0500" channel="CNNI">
+    <title lang="es">New Day</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021073000 -0500" channel="CNNI">
+    <title lang="es">CNN Newsroom with Max Foster</title>
+  </programme>
+  <programme start="20201021073000 -0500" stop="20201021080000 -0500" channel="CNNI">
+    <title lang="es">World Sport</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="CNNI">
+    <title lang="es">First Move</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="CNNI">
+    <title lang="es">Connect the world</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="CNNI">
+    <title lang="es">Connect the world</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021110000 -0500" channel="CNNI">
+    <title lang="es">Connect the world</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="CNNI">
+    <title lang="es">The Express</title>
+  </programme>
+  <programme start="20201021113000 -0500" stop="20201021120000 -0500" channel="CNNI">
+    <title lang="es">Talk Asia</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021130000 -0500" channel="CNNI">
+    <title lang="es">Amanpour</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021140000 -0500" channel="CNNI">
+    <title lang="es">Hala Gorani tonight</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="CNNI">
+    <title lang="es">Quest Means Business</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="CNNI">
+    <title lang="es">The Lead with Jake Tapper</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="CNNI">
+    <title lang="es">The Brief with Bianca Nobilo</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="CNNI">
+    <title lang="es">World Sport En Vivo</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021190000 -0500" channel="CNNI">
+    <title lang="es">Your World Today</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021200000 -0500" channel="CNNI">
+    <title lang="es">Anderson Cooper 360 En Vivo</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021210000 -0500" channel="CNNI">
+    <title lang="es">Cuomo Prime Time</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="CNNI">
+    <title lang="es">CNN Tonight</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021230000 -0500" channel="CNNI">
+    <title lang="es">Amanpour</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022023000 -0500" channel="CNNI">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20201022023000 -0500" stop="20201022030000 -0500" channel="CNNI">
+    <title lang="es">Winning Post</title>
+  </programme>
+  <programme start="20201022113000 -0500" stop="20201022120000 -0500" channel="CNNI">
+    <title lang="es">CNN Equestrian Rotation</title>
+  </programme>
+  <programme start="20201022150000 -0500" stop="20201022160000 -0500" channel="CNNI">
+    <title lang="es">The Lead with Jake Tapper</title>
   </programme>
 </tv>
