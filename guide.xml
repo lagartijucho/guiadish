@@ -1,10 +1,196 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201021012500 -0500" stop="20201021030100 -0500" channel="Cinemax">
+    <title lang="es">Nunca Digas su Nombre</title>
+  </programme>
+  <programme start="20201021030100 -0500" stop="20201021042000 -0500" channel="Cinemax">
+    <title lang="es">Inactividad Paranormal 2</title>
+  </programme>
+  <programme start="20201021042000 -0500" stop="20201021060700 -0500" channel="Cinemax">
+    <title lang="es">Sing street</title>
+  </programme>
+  <programme start="20201021060700 -0500" stop="20201021082700 -0500" channel="Cinemax">
+    <title lang="es">La última pelea</title>
+  </programme>
+  <programme start="20201021082700 -0500" stop="20201021100800 -0500" channel="Cinemax">
+    <title lang="es">La maldición de Charlie</title>
+  </programme>
+  <programme start="20201021100800 -0500" stop="20201021120800 -0500" channel="Cinemax">
+    <title lang="es">Fuerzas especiales</title>
+  </programme>
+  <programme start="20201021120800 -0500" stop="20201021143500 -0500" channel="Cinemax">
+    <title lang="es">La sombra del poder</title>
+  </programme>
+  <programme start="20201021143500 -0500" stop="20201021163500 -0500" channel="Cinemax">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20201021163500 -0500" stop="20201021184300 -0500" channel="Cinemax">
+    <title lang="es">Venganza de la casa del lago</title>
+  </programme>
+  <programme start="20201021184300 -0500" stop="20201021210000 -0500" channel="Cinemax">
+    <title lang="es">Los Secretos de Stonehearst</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021224900 -0500" channel="Cinemax">
+    <title lang="es">La maldición de Charlie</title>
+  </programme>
+  <programme start="20201021224900 -0500" stop="20201022013000 -0500" channel="Cinemax">
+    <title lang="es">Hannibal</title>
+  </programme>
+  <programme start="20201022013000 -0500" stop="20201022040200 -0500" channel="Cinemax">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20201022040200 -0500" stop="20201022061300 -0500" channel="Cinemax">
+    <title lang="es">El discurso dEl Rey</title>
+  </programme>
+  <programme start="20201022061300 -0500" stop="20201022085200 -0500" channel="Cinemax">
+    <title lang="es">Mundo Acuático</title>
+  </programme>
+  <programme start="20201022085200 -0500" stop="20201022104100 -0500" channel="Cinemax">
+    <title lang="es">Ninja II</title>
+  </programme>
+  <programme start="20201022104100 -0500" stop="20201022124600 -0500" channel="Cinemax">
+    <title lang="es">Contagio</title>
+  </programme>
+  <programme start="20201022124600 -0500" stop="20201022151800 -0500" channel="Cinemax">
+    <title lang="es">El plan perfecto</title>
+  </programme>
+  <programme start="20201022151800 -0500" stop="20201022172300 -0500" channel="Cinemax">
+    <title lang="es">El plan maestro</title>
+  </programme>
+  <programme start="20201022172300 -0500" stop="20201022191500 -0500" channel="Cinemax">
+    <title lang="es">Quemese después de leerse</title>
+  </programme>
+  <programme start="20201022191500 -0500" stop="20201022210000 -0500" channel="Cinemax">
+    <title lang="es">Código de defensa</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022230500 -0500" channel="Cinemax">
+    <title lang="es">Contagio</title>
+  </programme>
+  <programme start="20201022230500 -0500" stop="20201023013800 -0500" channel="Cinemax">
+    <title lang="es">El plan perfecto</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021040000 -0500" channel="ESPN">
+    <title lang="es">Barça TV</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021110000 -0500" channel="ESPN">
+    <title lang="es">Zenit vs. Club Brugge</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021130000 -0500" channel="ESPN">
+    <title lang="es">Rays vs. Dodgers</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021134500 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021134500 -0500" stop="20201021160000 -0500" channel="ESPN">
+    <title lang="es">Manchester City vs. Porto</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021170000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021180000 -0500" channel="ESPN">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021190000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021220000 -0500" channel="ESPN">
+    <title lang="es">MLB World Series</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021230000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022010000 -0500" stop="20201022030000 -0500" channel="ESPN">
+    <title lang="es">FC Salzburg vs. Lokomotiv</title>
+  </programme>
+  <programme start="20201022030000 -0500" stop="20201022040000 -0500" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201022040000 -0500" stop="20201022050000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022050000 -0500" stop="20201022060000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022070000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022070000 -0500" stop="20201022080000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022080000 -0500" stop="20201022090000 -0500" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022094500 -0500" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201022094500 -0500" stop="20201022114500 -0500" channel="ESPN">
+    <title lang="es">Bayern Múnich vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20201022114500 -0500" stop="20201022135000 -0500" channel="ESPN">
+    <title lang="es">PSV vs. Granada</title>
+  </programme>
+  <programme start="20201022135000 -0500" stop="20201022160000 -0500" channel="ESPN">
+    <title lang="es">Tottenham Hotspur vs. LASK Li</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="ESPN">
+    <title lang="es">Italian Serie A Highlights</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022180000 -0500" channel="ESPN">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022190000 -0500" channel="ESPN">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201022190000 -0500" stop="20201022210000 -0500" channel="ESPN">
+    <title lang="es">Rapid Vienna vs. Arsenal</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022213000 -0500" channel="ESPN">
+    <title lang="es">Major League Soccer Highlights</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022233000 -0500" channel="ESPN">
+    <title lang="es">Sounders Fc vs. Timbers</title>
+  </programme>
+  <programme start="20201022233000 -0500" stop="20201023000000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
   <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
   </programme>
@@ -97,5 +283,89 @@
   </programme>
   <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="ESPN 2">
     <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="ESPN 3">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="ESPN 3">
+    <title lang="es">Fútbol Picante</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021040000 -0500" channel="ESPN 3">
+    <title lang="es">MLB Serie Mundial 2020</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021042500 -0500" channel="ESPN 3">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20201021042500 -0500" stop="20201021073000 -0500" channel="ESPN 3">
+    <title lang="es">Béisbol KBO En Vivo</title>
+  </programme>
+  <programme start="20201021073000 -0500" stop="20201021090000 -0500" channel="ESPN 3">
+    <title lang="es">Get Up En Vivo</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021110000 -0500" channel="ESPN 3">
+    <title lang="es">Vuelta a España 2020 En Vivo</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="ESPN 3">
+    <title lang="es">NFL Compacts</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021133000 -0500" channel="ESPN 3">
+    <title lang="es">Saturdays In the South: A History of SEC Football</title>
+  </programme>
+  <programme start="20201021133000 -0500" stop="20201021134500 -0500" channel="ESPN 3">
+    <title lang="es">College Football 150</title>
+  </programme>
+  <programme start="20201021134500 -0500" stop="20201021160000 -0500" channel="ESPN 3">
+    <title lang="es">Midtjylland vs. Atalanta En Vivo</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021165500 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la Eredivisie</title>
+  </programme>
+  <programme start="20201021165500 -0500" stop="20201021185500 -0500" channel="ESPN 3">
+    <title lang="es">Tlaxcala vs. Cimarrones de Sonora En Vivo</title>
+  </programme>
+  <programme start="20201021185500 -0500" stop="20201021205500 -0500" channel="ESPN 3">
+    <title lang="es">Universidad de Guadalajara vs. Cancún En Vivo</title>
+  </programme>
+  <programme start="20201021205500 -0500" stop="20201021230000 -0500" channel="ESPN 3">
+    <title lang="es">Dorados vs. Tapatío En Vivo</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la UEFA Champions League</title>
+  </programme>
+  <programme start="20201022042500 -0500" stop="20201022073000 -0500" channel="ESPN 3">
+    <title lang="es">Béisbol KBO En Vivo</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022110000 -0500" channel="ESPN 3">
+    <title lang="es">Vuelta a España 2020 En Vivo</title>
+  </programme>
+  <programme start="20201022110000 -0500" stop="20201022114500 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la UEFA Champions League</title>
+  </programme>
+  <programme start="20201022114500 -0500" stop="20201022135000 -0500" channel="ESPN 3">
+    <title lang="es">Bayer 04 Leverkusen vs. Nice En Vivo</title>
+  </programme>
+  <programme start="20201022135000 -0500" stop="20201022160000 -0500" channel="ESPN 3">
+    <title lang="es">Hoffenheim vs. Crvena zvezda En Vivo</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="ESPN 3">
+    <title lang="es">NFL Compacts</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022180000 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la Eredivisie</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022183000 -0500" channel="ESPN 3">
+    <title lang="es">College Football Countdown En Vivo</title>
+  </programme>
+  <programme start="20201022183000 -0500" stop="20201022213000 -0500" channel="ESPN 3">
+    <title lang="es">Arkansas State vs. Appalachian State En Vivo</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022220000 -0500" channel="ESPN 3">
+    <title lang="es">College Football 150</title>
+  </programme>
+  <programme start="20201022220000 -0500" stop="20201022230000 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la UEFA Champions League</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="ESPN 3">
+    <title lang="es">Goles de la UEFA Europa League</title>
   </programme>
 </tv>
