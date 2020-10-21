@@ -21,7 +21,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Discovery">
-    <display-name lang="es">Discovery)</display-name>
+    <display-name lang="es">Discovery</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -844,169 +844,148 @@
   <programme start="20201021233000 -0500" stop="20201022000000 -0500" channel="Baby TV">
     <title lang="es">Noches de ensueño</title>
   </programme>
-  <programme start="20201022153000 -0500" stop="20201022160000 -0500" channel="Baby TV">
-    <title lang="es">La hora del arte</title>
+  <programme start="20201022160000 -0500" stop="20201022163000 -0500" channel="Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="Boomerang">
+    <title lang="es">Tío grandpa</title>
   </programme>
   <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="Boomerang">
-    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
+    <title lang="es">Lluvia de hamburguesas serie</title>
   </programme>
   <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Boomerang">
-    <title lang="es">Tío grandpa</title>
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
   <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="Boomerang">
-    <title lang="es">Bunnicula, el conejo vampiro</title>
-  </programme>
-  <programme start="20201021040000 -0500" stop="20201021043000 -0500" channel="Boomerang">
-    <title lang="es">El inspector Gadget</title>
-  </programme>
-  <programme start="20201021043000 -0500" stop="20201021050000 -0500" channel="Boomerang">
-    <title lang="es">Grizzy and the lemmings</title>
-  </programme>
-  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="Boomerang">
     <title lang="es">Tío grandpa</title>
   </programme>
-  <programme start="20201021060000 -0500" stop="20201021065500 -0500" channel="Boomerang">
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="Boomerang">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021053000 -0500" channel="Boomerang">
+    <title lang="es">El inspector Gadget</title>
+  </programme>
+  <programme start="20201021053000 -0500" stop="20201021060000 -0500" channel="Boomerang">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Boomerang">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="Boomerang">
     <title lang="es">Las Chicas Superpoderosas</title>
   </programme>
-  <programme start="20201021065500 -0500" stop="20201021070000 -0500" channel="Boomerang">
-    <title lang="es">The Happos Family</title>
-  </programme>
-  <programme start="20201021070000 -0500" stop="20201021072500 -0500" channel="Boomerang">
+  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Boomerang">
     <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
-  <programme start="20201021072500 -0500" stop="20201021073000 -0500" channel="Boomerang">
-    <title lang="es">Mighty Mike</title>
+  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20201021073000 -0500" stop="20201021080000 -0500" channel="Boomerang">
-    <title lang="es">The Tom &amp; Jerry show</title>
-  </programme>
-  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Boomerang">
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="Boomerang">
     <title lang="es">Unikitty</title>
   </programme>
-  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Boomerang">
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="Boomerang">
     <title lang="es">Mr. Bean</title>
   </programme>
-  <programme start="20201021090000 -0500" stop="20201021091500 -0500" channel="Boomerang">
+  <programme start="20201021100000 -0500" stop="20201021101500 -0500" channel="Boomerang">
     <title lang="es">Taffy</title>
   </programme>
-  <programme start="20201021091500 -0500" stop="20201021093000 -0500" channel="Boomerang">
-    <title lang="es">Oddbods</title>
-  </programme>
-  <programme start="20201021093000 -0500" stop="20201021095500 -0500" channel="Boomerang">
-    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
-  </programme>
-  <programme start="20201021095500 -0500" stop="20201021100000 -0500" channel="Boomerang">
-    <title lang="es">WeeBoom</title>
-  </programme>
-  <programme start="20201021100000 -0500" stop="20201021102500 -0500" channel="Boomerang">
-    <title lang="es">Barbie Dreamhouse Adventures</title>
-  </programme>
-  <programme start="20201021102500 -0500" stop="20201021103000 -0500" channel="Boomerang">
+  <programme start="20201021101500 -0500" stop="20201021103000 -0500" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
   <programme start="20201021103000 -0500" stop="20201021110000 -0500" channel="Boomerang">
-    <title lang="es">Ben 10</title>
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
   <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="Boomerang">
-    <title lang="es">Unikitty</title>
+    <title lang="es">Barbie Dreamhouse Adventures</title>
   </programme>
-  <programme start="20201021113000 -0500" stop="20201021115500 -0500" channel="Boomerang">
-    <title lang="es">Mr. Bean</title>
-  </programme>
-  <programme start="20201021115500 -0500" stop="20201021120000 -0500" channel="Boomerang">
-    <title lang="es">The Happos Family</title>
+  <programme start="20201021113000 -0500" stop="20201021120000 -0500" channel="Boomerang">
+    <title lang="es">Ben 10</title>
   </programme>
   <programme start="20201021120000 -0500" stop="20201021123000 -0500" channel="Boomerang">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20201021123000 -0500" stop="20201021124500 -0500" channel="Boomerang">
-    <title lang="es">Masha y el Oso</title>
-  </programme>
-  <programme start="20201021124500 -0500" stop="20201021130000 -0500" channel="Boomerang">
-    <title lang="es">Dorothy y el Mago de Oz</title>
-  </programme>
-  <programme start="20201021130000 -0500" stop="20201021133000 -0500" channel="Boomerang">
-    <title lang="es">The Tom &amp; Jerry show</title>
-  </programme>
-  <programme start="20201021133000 -0500" stop="20201021140000 -0500" channel="Boomerang">
-    <title lang="es">New Looney Tunes</title>
-  </programme>
-  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="Boomerang">
-    <title lang="es">Mr. Bean</title>
-  </programme>
-  <programme start="20201021150000 -0500" stop="20201021153000 -0500" channel="Boomerang">
     <title lang="es">Unikitty</title>
   </programme>
-  <programme start="20201021153000 -0500" stop="20201021160000 -0500" channel="Boomerang">
-    <title lang="es">Ben 10</title>
-  </programme>
-  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Boomerang">
-    <title lang="es">Bunnicula, el conejo vampiro</title>
-  </programme>
-  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="Boomerang">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20201021170000 -0500" stop="20201021171500 -0500" channel="Boomerang">
+  <programme start="20201021123000 -0500" stop="20201021130000 -0500" channel="Boomerang">
     <title lang="es">Mr. Bean</title>
   </programme>
-  <programme start="20201021171500 -0500" stop="20201021173000 -0500" channel="Boomerang">
-    <title lang="es">The Tom &amp; Jerry show</title>
-  </programme>
-  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Boomerang">
-    <title lang="es">WeeBoom</title>
-  </programme>
-  <programme start="20201021180000 -0500" stop="20201021183000 -0500" channel="Boomerang">
-    <title lang="es">New Looney Tunes</title>
-  </programme>
-  <programme start="20201021183000 -0500" stop="20201021185500 -0500" channel="Boomerang">
-    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
-  </programme>
-  <programme start="20201021185500 -0500" stop="20201021190000 -0500" channel="Boomerang">
-    <title lang="es">The Happos Family</title>
-  </programme>
-  <programme start="20201021190000 -0500" stop="20201021193000 -0500" channel="Boomerang">
-    <title lang="es">DC Super Hero Girls</title>
-  </programme>
-  <programme start="20201021193000 -0500" stop="20201021200000 -0500" channel="Boomerang">
-    <title lang="es">El show de Tom y Jerry</title>
-  </programme>
-  <programme start="20201021200000 -0500" stop="20201021210000 -0500" channel="Boomerang">
+  <programme start="20201021130000 -0500" stop="20201021133000 -0500" channel="Boomerang">
     <title lang="es">Las Chicas Superpoderosas</title>
   </programme>
-  <programme start="20201021210000 -0500" stop="20201021213000 -0500" channel="Boomerang">
-    <title lang="es">Mr. Bean</title>
-  </programme>
-  <programme start="20201021213000 -0500" stop="20201021220000 -0500" channel="Boomerang">
-    <title lang="es">31 Minutos</title>
-  </programme>
-  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="Boomerang">
-    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
-  </programme>
-  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="Boomerang">
+  <programme start="20201021133000 -0500" stop="20201021134500 -0500" channel="Boomerang">
     <title lang="es">Masha y el Oso</title>
   </programme>
-  <programme start="20201021230000 -0500" stop="20201021232500 -0500" channel="Boomerang">
-    <title lang="es">El Show de Peabody y Sherman</title>
-  </programme>
-  <programme start="20201021232500 -0500" stop="20201021233000 -0500" channel="Boomerang">
-    <title lang="es">Mighty Mike</title>
-  </programme>
-  <programme start="20201021233000 -0500" stop="20201022000000 -0500" channel="Boomerang">
-    <title lang="es">Tío grandpa</title>
-  </programme>
-  <programme start="20201022124500 -0500" stop="20201022130000 -0500" channel="Boomerang">
-    <title lang="es">LAS HISTORIAS ESPELUZNANTES DE MASHA</title>
-  </programme>
-  <programme start="20201022153000 -0500" stop="20201022160000 -0500" channel="Boomerang">
-    <title lang="es">Ben 10</title>
-  </programme>
-  <programme start="20201022170000 -0500" stop="20201022173000 -0500" channel="Boomerang">
+  <programme start="20201021134500 -0500" stop="20201021140000 -0500" channel="Boomerang">
     <title lang="es">Dorothy y el Mago de Oz</title>
   </programme>
-  <programme start="20201022173000 -0500" stop="20201022174500 -0500" channel="Boomerang">
+  <programme start="20201021140000 -0500" stop="20201021143000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021143000 -0500" stop="20201021150000 -0500" channel="Boomerang">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Boomerang">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021170000 -0500" channel="Boomerang">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021173000 -0500" channel="Boomerang">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021181500 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021181500 -0500" stop="20201021183000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021190000 -0500" channel="Boomerang">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021193000 -0500" channel="Boomerang">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20201021193000 -0500" stop="20201021200000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021203000 -0500" channel="Boomerang">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021210000 -0500" channel="Boomerang">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021223000 -0500" channel="Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="Boomerang">
+    <title lang="es">31 Minutos</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201021233000 -0500" channel="Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022000000 -0500" channel="Boomerang">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20201022134500 -0500" stop="20201022140000 -0500" channel="Boomerang">
+    <title lang="es">Masha historias espeluznantes</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022163000 -0500" channel="Boomerang">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022183000 -0500" channel="Boomerang">
+    <title lang="es">Dorothy y el Mago de Oz</title>
+  </programme>
+  <programme start="20201022183000 -0500" stop="20201022184500 -0500" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20201022174500 -0500" stop="20201022180000 -0500" channel="Boomerang">
+  <programme start="20201022184500 -0500" stop="20201022190000 -0500" channel="Boomerang">
     <title lang="es">WeeBoom</title>
   </programme>
   <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="Ingenio TV">
@@ -3250,8 +3229,8 @@
   <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="CNNE">
     <title lang="es">Perspectivas desde Mexico</title>
   </programme>
-  <programme start="20201022150000 -0500" stop="20201022160000 -0500" channel="CNNE">
-    <title lang="es">Directo USA con Juan Lopez</title>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="CNNE">
+    <title lang="es">En Dialogo con Longobardi</title>
   </programme>
   <programme start="20201021023000 -0500" stop="20201021030000 -0500" channel="CNNI">
     <title lang="es">Talk Asia</title>
@@ -3334,7 +3313,7 @@
   <programme start="20201022113000 -0500" stop="20201022120000 -0500" channel="CNNI">
     <title lang="es">CNN Equestrian Rotation</title>
   </programme>
-  <programme start="20201022150000 -0500" stop="20201022160000 -0500" channel="CNNI">
-    <title lang="es">The Lead with Jake Tapper</title>
+  <programme start="20201022160000 -0500" stop="20201022163000 -0500" channel="CNNI">
+    <title lang="es">The Brief with Bianca Nobilo</title>
   </programme>
 </tv>
