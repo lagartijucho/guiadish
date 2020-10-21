@@ -20,6 +20,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Fox Action">
+    <display-name lang="es">Fox Action</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201021012500 -0500" stop="20201021030100 -0500" channel="Cinemax">
     <title lang="es">Nunca Digas su Nombre</title>
   </programme>
@@ -367,5 +372,98 @@
   </programme>
   <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="ESPN 3">
     <title lang="es">Goles de la UEFA Europa League</title>
+  </programme>
+  <programme start="20201021013300 -0500" stop="20201021032600 -0500" channel="Fox Action">
+    <title lang="es">Control Total</title>
+  </programme>
+  <programme start="20201021032600 -0500" stop="20201021045400 -0500" channel="Fox Action">
+    <title lang="es">Apuesta Máxima</title>
+  </programme>
+  <programme start="20201021045400 -0500" stop="20201021061700 -0500" channel="Fox Action">
+    <title lang="es">Stephanie</title>
+  </programme>
+  <programme start="20201021061700 -0500" stop="20201021073400 -0500" channel="Fox Action">
+    <title lang="es">American Muscle</title>
+  </programme>
+  <programme start="20201021073400 -0500" stop="20201021090700 -0500" channel="Fox Action">
+    <title lang="es">El robo más grande de la historia</title>
+  </programme>
+  <programme start="20201021090700 -0500" stop="20201021103400 -0500" channel="Fox Action">
+    <title lang="es">13 Asesinos</title>
+  </programme>
+  <programme start="20201021103400 -0500" stop="20201021122100 -0500" channel="Fox Action">
+    <title lang="es">5 días de guerra</title>
+  </programme>
+  <programme start="20201021122100 -0500" stop="20201021141800 -0500" channel="Fox Action">
+    <title lang="es">Tómalo con calma</title>
+  </programme>
+  <programme start="20201021141800 -0500" stop="20201021162500 -0500" channel="Fox Action">
+    <title lang="es">El Hombre de la Máscara de Hierro</title>
+  </programme>
+  <programme start="20201021162500 -0500" stop="20201021180400 -0500" channel="Fox Action">
+    <title lang="es">Días de suerte</title>
+  </programme>
+  <programme start="20201021180400 -0500" stop="20201021195700 -0500" channel="Fox Action">
+    <title lang="es">Control Total</title>
+  </programme>
+  <programme start="20201021195700 -0500" stop="20201021220000 -0500" channel="Fox Action">
+    <title lang="es">En Defensa Del Honor</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201022002900 -0500" channel="Fox Action">
+    <title lang="es">Contra Lo Imposible</title>
+  </programme>
+  <programme start="20201022220000 -0500" stop="20201023002900 -0500" channel="Fox Action">
+    <title lang="es">Contra Lo Imposible</title>
+  </programme>
+  <programme start="20201023002900 -0500" stop="20201023023200 -0500" channel="Fox Action">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20201023023200 -0500" stop="20201023043200 -0500" channel="Fox Action">
+    <title lang="es">Cuenta final</title>
+  </programme>
+  <programme start="20201023043200 -0500" stop="20201023051300 -0500" channel="Fox Action">
+    <title lang="es">Misión Submarino</title>
+  </programme>
+  <programme start="20201023051300 -0500" stop="20201023055800 -0500" channel="Fox Action">
+    <title lang="es">GP 1</title>
+  </programme>
+  <programme start="20201023055800 -0500" stop="20201023062600 -0500" channel="Fox Action">
+    <title lang="es">La espera</title>
+  </programme>
+  <programme start="20201023062600 -0500" stop="20201023072700 -0500" channel="Fox Action">
+    <title lang="es">Red 2</title>
+  </programme>
+  <programme start="20201023072700 -0500" stop="20201023090200 -0500" channel="Fox Action">
+    <title lang="es">Cyborg X</title>
+  </programme>
+  <programme start="20201023090200 -0500" stop="20201023105900 -0500" channel="Fox Action">
+    <title lang="es">The Lead</title>
+  </programme>
+  <programme start="20201023105900 -0500" stop="20201023122100 -0500" channel="Fox Action">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20201023122100 -0500" stop="20201023124700 -0500" channel="Fox Action">
+    <title lang="es">Carrera infernal</title>
+  </programme>
+  <programme start="20201023124700 -0500" stop="20201023135000 -0500" channel="Fox Action">
+    <title lang="es">Abraham Lincoln: Cazador de vampiros</title>
+  </programme>
+  <programme start="20201023135000 -0500" stop="20201023151500 -0500" channel="Fox Action">
+    <title lang="es">Stephanie</title>
+  </programme>
+  <programme start="20201023151500 -0500" stop="20201023165500 -0500" channel="Fox Action">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20201023165500 -0500" stop="20201023184600 -0500" channel="Fox Action">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20201023184600 -0500" stop="20201023202100 -0500" channel="Fox Action">
+    <title lang="es">Apuesta Máxima</title>
+  </programme>
+  <programme start="20201023202100 -0500" stop="20201023210900 -0500" channel="Fox Action">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20201023220000 -0500" stop="20201024000900 -0500" channel="Fox Action">
+    <title lang="es">Jack Reacher</title>
   </programme>
 </tv>
