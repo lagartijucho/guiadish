@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal ESPN 2 México">
+    <display-name lang="es">ESPN 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021050000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Lazio vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Espn Tenis</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021100000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Italian Serie A Highlights</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021114500 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">LA Galaxy vs. Whitecaps FC</title>
+  </programme>
+  <programme start="20201021114500 -0500" stop="20201021135000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">FC Salzburg vs. Lokomotiv</title>
+  </programme>
+  <programme start="20201021135000 -0500" stop="20201021160000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Bayern Munich vs. Atlético Ma</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021170000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201021170000 -0500" stop="20201021183000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Manchester City vs. Porto</title>
+  </programme>
+  <programme start="20201021183000 -0500" stop="20201021203000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Napoli vs. Atalanta</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021205500 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201021205500 -0500" stop="20201021230000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Copa MX</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+</tv>
