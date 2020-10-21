@@ -20,9 +20,19 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Fox Action">
-    <display-name lang="es">Fox Action</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action-mediano.png" />
+  <channel id="Fox Sports">
+    <display-name lang="es">Fox Sports</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20201021012500 -0500" stop="20201021030100 -0500" channel="Cinemax">
@@ -373,97 +383,298 @@
   <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="ESPN 3">
     <title lang="es">Goles de la UEFA Europa League</title>
   </programme>
-  <programme start="20201021013300 -0500" stop="20201021032600 -0500" channel="Fox Action">
-    <title lang="es">Control Total</title>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Fox Sports">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20201021032600 -0500" stop="20201021045400 -0500" channel="Fox Action">
-    <title lang="es">Apuesta Máxima</title>
+  <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201021045400 -0500" stop="20201021061700 -0500" channel="Fox Action">
-    <title lang="es">Stephanie</title>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201021061700 -0500" stop="20201021073400 -0500" channel="Fox Action">
-    <title lang="es">American Muscle</title>
+  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201021073400 -0500" stop="20201021090700 -0500" channel="Fox Action">
-    <title lang="es">El robo más grande de la historia</title>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201021090700 -0500" stop="20201021103400 -0500" channel="Fox Action">
-    <title lang="es">13 Asesinos</title>
+  <programme start="20201021070000 -0500" stop="20201021073000 -0500" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20201021103400 -0500" stop="20201021122100 -0500" channel="Fox Action">
-    <title lang="es">5 días de guerra</title>
+  <programme start="20201021073000 -0500" stop="20201021080000 -0500" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20201021122100 -0500" stop="20201021141800 -0500" channel="Fox Action">
-    <title lang="es">Tómalo con calma</title>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201021141800 -0500" stop="20201021162500 -0500" channel="Fox Action">
-    <title lang="es">El Hombre de la Máscara de Hierro</title>
+  <programme start="20201021090000 -0500" stop="20201021100000 -0500" channel="Fox Sports">
+    <title lang="es">Agenda Fox Sports</title>
   </programme>
-  <programme start="20201021162500 -0500" stop="20201021180400 -0500" channel="Fox Action">
-    <title lang="es">Días de suerte</title>
+  <programme start="20201021100000 -0500" stop="20201021110000 -0500" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201021180400 -0500" stop="20201021195700 -0500" channel="Fox Action">
-    <title lang="es">Control Total</title>
+  <programme start="20201021110000 -0500" stop="20201021113000 -0500" channel="Fox Sports">
+    <title lang="es">UFC Ultimate Knockouts</title>
   </programme>
-  <programme start="20201021195700 -0500" stop="20201021220000 -0500" channel="Fox Action">
-    <title lang="es">En Defensa Del Honor</title>
+  <programme start="20201021113000 -0500" stop="20201021134600 -0500" channel="Fox Sports">
+    <title lang="es">Real Madrid vs. Shakhtar Donetsk</title>
   </programme>
-  <programme start="20201021220000 -0500" stop="20201022002900 -0500" channel="Fox Action">
-    <title lang="es">Contra Lo Imposible</title>
+  <programme start="20201021134600 -0500" stop="20201021160000 -0500" channel="Fox Sports">
+    <title lang="es">Ajax vs. Liverpool</title>
   </programme>
-  <programme start="20201022220000 -0500" stop="20201023002900 -0500" channel="Fox Action">
-    <title lang="es">Contra Lo Imposible</title>
+  <programme start="20201021160000 -0500" stop="20201021170000 -0500" channel="Fox Sports">
+    <title lang="es">Fox Sports Radio</title>
   </programme>
-  <programme start="20201023002900 -0500" stop="20201023023200 -0500" channel="Fox Action">
-    <title lang="es">Sangre, sudor y gloria</title>
+  <programme start="20201021170000 -0500" stop="20201021180000 -0500" channel="Fox Sports">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20201023023200 -0500" stop="20201023043200 -0500" channel="Fox Action">
-    <title lang="es">Cuenta final</title>
+  <programme start="20201021180000 -0500" stop="20201021190000 -0500" channel="Fox Sports">
+    <title lang="es">UFC Main Event</title>
   </programme>
-  <programme start="20201023043200 -0500" stop="20201023051300 -0500" channel="Fox Action">
-    <title lang="es">Misión Submarino</title>
+  <programme start="20201021190000 -0500" stop="20201021220000 -0500" channel="Fox Sports">
+    <title lang="es">Rays vs. Dodgers</title>
   </programme>
-  <programme start="20201023051300 -0500" stop="20201023055800 -0500" channel="Fox Action">
-    <title lang="es">GP 1</title>
+  <programme start="20201021220000 -0500" stop="20201021230000 -0500" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201023055800 -0500" stop="20201023062600 -0500" channel="Fox Action">
-    <title lang="es">La espera</title>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201023062600 -0500" stop="20201023072700 -0500" channel="Fox Action">
-    <title lang="es">Red 2</title>
+  <programme start="20201022000000 -0500" stop="20201022020000 -0500" channel="Fox Sports">
+    <title lang="es">Tijuana vs. Rayados de Mo</title>
   </programme>
-  <programme start="20201023072700 -0500" stop="20201023090200 -0500" channel="Fox Action">
-    <title lang="es">Cyborg X</title>
+  <programme start="20201022110000 -0500" stop="20201022113000 -0500" channel="Fox Sports">
+    <title lang="es">Fox fight club</title>
   </programme>
-  <programme start="20201023090200 -0500" stop="20201023105900 -0500" channel="Fox Action">
-    <title lang="es">The Lead</title>
+  <programme start="20201022113000 -0500" stop="20201022114500 -0500" channel="Fox Sports">
+    <title lang="es">Rumbo a Estambul</title>
   </programme>
-  <programme start="20201023105900 -0500" stop="20201023122100 -0500" channel="Fox Action">
-    <title lang="es">La niñera</title>
+  <programme start="20201022114500 -0500" stop="20201022134500 -0500" channel="Fox Sports">
+    <title lang="es">SSC Napoli vs. AZ Alkmaar</title>
   </programme>
-  <programme start="20201023122100 -0500" stop="20201023124700 -0500" channel="Fox Action">
-    <title lang="es">Carrera infernal</title>
+  <programme start="20201022134500 -0500" stop="20201022160000 -0500" channel="Fox Sports">
+    <title lang="es">Celtic FC vs. AC Milan</title>
   </programme>
-  <programme start="20201023124700 -0500" stop="20201023135000 -0500" channel="Fox Action">
-    <title lang="es">Abraham Lincoln: Cazador de vampiros</title>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="Fox Sports">
+    <title lang="es">Fox Sports Radio</title>
   </programme>
-  <programme start="20201023135000 -0500" stop="20201023151500 -0500" channel="Fox Action">
-    <title lang="es">Stephanie</title>
+  <programme start="20201022170000 -0500" stop="20201022180000 -0500" channel="Fox Sports">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20201023151500 -0500" stop="20201023165500 -0500" channel="Fox Action">
-    <title lang="es">RoboCop</title>
+  <programme start="20201022180000 -0500" stop="20201022183000 -0500" channel="Fox Sports">
+    <title lang="es">Nfl gameday</title>
   </programme>
-  <programme start="20201023165500 -0500" stop="20201023184600 -0500" channel="Fox Action">
-    <title lang="es">El robo del siglo</title>
+  <programme start="20201022183000 -0500" stop="20201022190000 -0500" channel="Fox Sports">
+    <title lang="es">Fox impacto NFL</title>
   </programme>
-  <programme start="20201023184600 -0500" stop="20201023202100 -0500" channel="Fox Action">
-    <title lang="es">Apuesta Máxima</title>
+  <programme start="20201022190000 -0500" stop="20201022223000 -0500" channel="Fox Sports">
+    <title lang="es">Giants vs. Eagles</title>
   </programme>
-  <programme start="20201023202100 -0500" stop="20201023210900 -0500" channel="Fox Action">
-    <title lang="es">Programación no disponible</title>
+  <programme start="20201022223000 -0500" stop="20201022230000 -0500" channel="Fox Sports">
+    <title lang="es">UFC Ultimate Knockouts</title>
   </programme>
-  <programme start="20201023220000 -0500" stop="20201024000900 -0500" channel="Fox Action">
-    <title lang="es">Jack Reacher</title>
+  <programme start="20201021010000 -0500" stop="20201021020000 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Fox Sports 2">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021040000 -0500" channel="Fox Sports 2">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="Fox Sports 2">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021080000 -0500" channel="Fox Sports 2">
+    <title lang="es">Rays vs. Dodgers</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021083000 -0500" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201021083000 -0500" stop="20201021090000 -0500" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021110000 -0500" channel="Fox Sports 2">
+    <title lang="es">Paris Saint-Germain vs. Manchester United</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="Fox Sports 2">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021123000 -0500" channel="Fox Sports 2">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20201021123000 -0500" stop="20201021130000 -0500" channel="Fox Sports 2">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021134500 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20201021134500 -0500" stop="20201021160000 -0500" channel="Fox Sports 2">
+    <title lang="es">Inter de Milán vs. V</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021180000 -0500" channel="Fox Sports 2">
+    <title lang="es">Real Madrid vs.Shakhtar Repetición</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021200000 -0500" channel="Fox Sports 2">
+    <title lang="es">León Vs. América</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021203000 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201021203000 -0500" stop="20201021230000 -0500" channel="Fox Sports 2">
+    <title lang="es">Tijuana vs. Rayados de Mo</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201022010000 -0500" stop="20201022040000 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022110000 -0500" channel="Fox Sports 2">
+    <title lang="es">Ajax vs. Liverpool</title>
+  </programme>
+  <programme start="20201022110000 -0500" stop="20201022114500 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20201022114500 -0500" stop="20201022140000 -0500" channel="Fox Sports 2">
+    <title lang="es">BSC Young Boys vs. Roma</title>
+  </programme>
+  <programme start="20201022140000 -0500" stop="20201022160000 -0500" channel="Fox Sports 2">
+    <title lang="es">Leicester City vs. FC Zorya Lu</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022190000 -0500" channel="Fox Sports 2">
+    <title lang="es">Alajuelence vs. Cibao</title>
+  </programme>
+  <programme start="20201022190000 -0500" stop="20201022193000 -0500" channel="Fox Sports 2">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201022193000 -0500" stop="20201022203000 -0500" channel="Fox Sports 2">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20201022203000 -0500" stop="20201022213000 -0500" channel="Fox Sports 2">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022233000 -0500" channel="Fox Sports 2">
+    <title lang="es">Deprotivo Motagua vs. Comunicac</title>
+  </programme>
+  <programme start="20201022233000 -0500" stop="20201023003000 -0500" channel="Fox Sports 2">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20201021013000 -0500" stop="20201021020000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201021020000 -0500" stop="20201021030000 -0500" channel="Fox Sports 3">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201021030000 -0500" stop="20201021060000 -0500" channel="Fox Sports 3">
+    <title lang="es">Nascar Xfinity Series 2020</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021070000 -0500" stop="20201021080000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021110000 -0500" channel="Fox Sports 3">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="Fox Sports 3">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021130000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021160000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021163000 -0500" channel="Fox Sports 3">
+    <title lang="es">ABB FIA Formula E 2019 - 2020</title>
+  </programme>
+  <programme start="20201021163000 -0500" stop="20201021173000 -0500" channel="Fox Sports 3">
+    <title lang="es">World Rally Championship 2020</title>
+  </programme>
+  <programme start="20201021173000 -0500" stop="20201021180000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021190000 -0500" channel="Fox Sports 3">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021210000 -0500" channel="Fox Sports 3">
+    <title lang="es">Fórmula 1 GP México 2016</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021230000 -0500" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022010000 -0500" channel="Fox Sports 3">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201023010000 -0500" channel="Fox Sports 3">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201023010000 -0500" stop="20201023030000 -0500" channel="Fox Sports 3">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201023030000 -0500" stop="20201023040000 -0500" channel="Fox Sports 3">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201023040000 -0500" stop="20201023073000 -0500" channel="Fox Sports 3">
+    <title lang="es">Nascar Cup Series 2020 Kansas</title>
+  </programme>
+  <programme start="20201023073000 -0500" stop="20201023080000 -0500" channel="Fox Sports 3">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201023080000 -0500" stop="20201023090000 -0500" channel="Fox Sports 3">
+    <title lang="es">WTCR 2020 Hungría carrera 1</title>
+  </programme>
+  <programme start="20201023090000 -0500" stop="20201023100000 -0500" channel="Fox Sports 3">
+    <title lang="es">WTCR 2020 Hungría carrera 2</title>
+  </programme>
+  <programme start="20201023100000 -0500" stop="20201023113000 -0500" channel="Fox Sports 3">
+    <title lang="es">WTCR 2020 Hungría carrera 3</title>
+  </programme>
+  <programme start="20201023113000 -0500" stop="20201023133000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201023133000 -0500" stop="20201023153000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201023153000 -0500" stop="20201023160000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201023160000 -0500" stop="20201023163000 -0500" channel="Fox Sports 3">
+    <title lang="es">ABB FIA Formula E 2019 - 2020</title>
+  </programme>
+  <programme start="20201023163000 -0500" stop="20201023173000 -0500" channel="Fox Sports 3">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201023173000 -0500" stop="20201023193000 -0500" channel="Fox Sports 3">
+    <title lang="es">Fórmula 1 Carreras históricas</title>
+  </programme>
+  <programme start="20201023193000 -0500" stop="20201023200000 -0500" channel="Fox Sports 3">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201023200000 -0500" stop="20201023210000 -0500" channel="Fox Sports 3">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201023210000 -0500" stop="20201023213000 -0500" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross MXGP de España</title>
+  </programme>
+  <programme start="20201023213000 -0500" stop="20201023220000 -0500" channel="Fox Sports 3">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201023220000 -0500" stop="20201023223000 -0500" channel="Fox Sports 3">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201023223000 -0500" stop="20201023233000 -0500" channel="Fox Sports 3">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201023233000 -0500" stop="20201024000000 -0500" channel="Fox Sports 3">
+    <title lang="es">Rally on board</title>
   </programme>
 </tv>
