@@ -56,4 +56,46 @@
   <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="ESPN 2">
     <title lang="es">Futbol Picante</title>
   </programme>
+  <programme start="20201022030000 -0500" stop="20201022050000 -0500" channel="ESPN 2">
+    <title lang="es">Chelsea vs. Sevilla</title>
+  </programme>
+  <programme start="20201022070000 -0500" stop="20201022073000 -0500" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201022073000 -0500" stop="20201022080000 -0500" channel="ESPN 2">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201022080000 -0500" stop="20201022090000 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022110000 -0500" channel="ESPN 2">
+    <title lang="es">Copa MX</title>
+  </programme>
+  <programme start="20201022110000 -0500" stop="20201022114500 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022114500 -0500" stop="20201022135000 -0500" channel="ESPN 2">
+    <title lang="es">Rapid Vienna vs. Arsenal</title>
+  </programme>
+  <programme start="20201022135000 -0500" stop="20201022160000 -0500" channel="ESPN 2">
+    <title lang="es">Villarreal vs. Sivaspor</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022170000 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022190000 -0500" channel="ESPN 2">
+    <title lang="es">Midtjylland vs. Atalanta</title>
+  </programme>
+  <programme start="20201022190000 -0500" stop="20201022210000 -0500" channel="ESPN 2">
+    <title lang="es">Barcelona vs. Ferencváros</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022220000 -0500" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201022220000 -0500" stop="20201022230000 -0500" channel="ESPN 2">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="ESPN 2">
+    <title lang="es">Futbol Picante</title>
+  </programme>
 </tv>
