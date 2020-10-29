@@ -5535,8 +5535,6 @@
   <programme start="20201104232400 -0600" stop="20201105010900 -0600" channel="ISAT">
     <title lang="es">Crank Alto voltaje</title>
   </programme>
-  <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Investigation Discovery">
     <display-name lang="es">Investigation Discovery</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" />
